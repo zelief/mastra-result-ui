@@ -90,12 +90,6 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
     return "text-red-600"
   }
 
-  const getScoreBadge = (score: number) => {
-    if (score >= 4) return "bg-green-100 text-green-800"
-    if (score >= 3) return "bg-yellow-100 text-yellow-800"
-    return "bg-red-100 text-red-800"
-  }
-
   return (
     <TooltipProvider>
       <div className="max-w-7xl mx-auto p-6 space-y-6">
@@ -239,9 +233,6 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
 
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-2">
-                        <Badge className={getScoreBadge(product.specAnalysis.overall_relevance_score)}>
-                          {product.specAnalysis.overall_relevance_score.toFixed(1)}/5
-                        </Badge>
                         <span className="text-xs text-muted-foreground">
                           {product.shortlistScore.toFixed(1)}%
                         </span>
