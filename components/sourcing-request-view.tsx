@@ -96,7 +96,19 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
               {currentItem.item.summary}
             </h1>
             <p className="text-sm text-muted-foreground mt-1">
-              Sourcing Request ID: {data.sourcing_request_id || "UNKNOWN"}
+              Sourcing Request ID:{" "}
+              {data.sourcing_request_id ? (
+                <a
+                  href={`https://scube.sourcy.ai/dashboard/sourcing/${data.sourcing_request_id}/bot-results`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary hover:underline"
+                >
+                  {data.sourcing_request_id}
+                </a>
+              ) : (
+                "UNKNOWN"
+              )}
             </p>
           </div>
           {data.all_search_results.length > 1 && (
