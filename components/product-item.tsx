@@ -61,7 +61,11 @@ export function ProductItem({ product }: ProductItemProps) {
 
     const getProductImages = () => {
         if (productData) {
-            return getAllProductImages(productData, product.searchResult.platform_id)
+            return getAllProductImages(
+                productData,
+                product.searchResult.platform_id,
+                product.specAnalysis.most_relevant_sku_id
+            )
         }
 
         // Fallback to original image if no product details available
@@ -78,10 +82,17 @@ export function ProductItem({ product }: ProductItemProps) {
                         <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
                     </div>
                 ) : (
-                    <ImageCarousel 
-                        images={productImages} 
-                        alt={product.searchResult.title}
-                    />
+                    <div className="space-y-2">
+                        <ImageCarousel
+                            images={productImages}
+                            alt={product.searchResult.title}
+                        />
+                        {product.specAnalysis.most_relevant_sku_id && productImages.length > 0 && (
+                            <div className="text-xs text-muted-foreground text-center">
+                                Showing images from most relevant SKU: {product.specAnalysis.most_relevant_sku_id}
+                            </div>
+                        )}
+                    </div>
                 )}
             </CardHeader>
             <CardContent className="space-y-4">

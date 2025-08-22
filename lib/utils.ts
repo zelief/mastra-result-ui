@@ -50,7 +50,10 @@ export async function fetchProductDetails(
 }
 
 // Get images for 1688 platform SKU
-export function getImagesForSku(propsIds: string, skuProps: any[]): string[] {
+export function getImagesForSku(
+  propsIds: string,
+  skuProps: { pid: string; values: { vid: string; imageUrl: string }[] }[]
+): string[] {
   const images: string[] = [];
 
   if (!propsIds || !skuProps) {
@@ -61,10 +64,10 @@ export function getImagesForSku(propsIds: string, skuProps: any[]): string[] {
 
   propPairs.forEach((pair) => {
     const [pid, vid] = pair.split(":");
-    const prop = skuProps.find((p: any) => p.pid === pid);
+    const prop = skuProps.find((p) => p.pid === pid);
 
     if (prop) {
-      const value = prop.values.find((v: any) => v.vid === vid);
+      const value = prop.values.find((v) => v.vid === vid);
       if (value?.imageUrl) {
         images.push(value.imageUrl);
       }
@@ -76,7 +79,7 @@ export function getImagesForSku(propsIds: string, skuProps: any[]): string[] {
 
 // Get images for Alibaba platform SKU
 export function getAlibabaSkuImages(
-  sku: any,
+  sku: TMAPIAlibabaSku,
   productData: TMAPIAlibabaData
 ): string[] {
   return sku.props_ids
@@ -98,27 +101,61 @@ export function getAlibabaSkuImages(
 // Get all images for a product (SKU images first, then product images)
 export function getAllProductImages(
   productData: tmAPIProductDetail | TMAPIAlibabaData | null,
-  platformId: number
+  platformId: number,
+  mostRelevantSkuId?: string | null
 ): string[] {
   if (!productData) return [];
 
   const images: string[] = [];
 
-  // Add SKU images first
+  // Add SKU images first - only from the most relevant SKU if specified
   if (platformId === 1 && "skus" in productData) {
     // 1688 platform
-    const skuImages =
-      productData.skus?.flatMap((sku) =>
-        getImagesForSku(sku.props_ids, productData.sku_props || [])
-      ) || [];
-    images.push(...skuImages);
+    if (mostRelevantSkuId) {
+      // Find the most relevant SKU
+      const relevantSku = productData.skus?.find(
+        (sku) => sku.skuid === mostRelevantSkuId
+      );
+      if (relevantSku) {
+        const skuImages = getImagesForSku(
+          relevantSku.props_ids,
+          productData.sku_props || []
+        );
+        images.push(...skuImages);
+      }
+    } else {
+      // Fallback to all SKU images if no most relevant SKU specified
+      const skuImages =
+        productData.skus?.flatMap((sku) =>
+          getImagesForSku(sku.props_ids, productData.sku_props || [])
+        ) || [];
+      images.push(...skuImages);
+    }
   } else if (platformId === 2 && "skus" in productData) {
     // Alibaba platform
-    const skuImages =
-      productData.skus?.flatMap((sku) =>
-        getAlibabaSkuImages(sku, productData as TMAPIAlibabaData)
-      ) || [];
-    images.push(...skuImages);
+    if (mostRelevantSkuId) {
+      // Find the most relevant SKU
+      const relevantSku = productData.skus?.find(
+        (sku) => sku.skuid === mostRelevantSkuId
+      );
+      if (relevantSku) {
+        const skuImages = getAlibabaSkuImages(
+          relevantSku as TMAPIAlibabaSku,
+          productData as TMAPIAlibabaData
+        );
+        images.push(...skuImages);
+      }
+    } else {
+      // Fallback to all SKU images if no most relevant SKU specified
+      const skuImages =
+        productData.skus?.flatMap((sku) =>
+          getAlibabaSkuImages(
+            sku as TMAPIAlibabaSku,
+            productData as TMAPIAlibabaData
+          )
+        ) || [];
+      images.push(...skuImages);
+    }
   }
 
   // Add product images if no SKU images or as fallback
