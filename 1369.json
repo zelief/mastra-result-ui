@@ -1,0 +1,564 @@
+{
+  "all_search_results": [
+    {
+      "item": {
+        "summary": "Alcohol-free gel perfume in a 30gr tube with a Vanilla scent profile, branded packaging, and BPOM certification preference.",
+        "product_spec": [
+          {
+            "spec_name": "Product Type",
+            "spec_value": "Gel Perfume"
+          },
+          {
+            "spec_name": "Fragrance Type",
+            "spec_value": "Alcohol-free"
+          },
+          {
+            "spec_name": "Base Material",
+            "spec_value": "Alcohol-free gel base"
+          },
+          {
+            "spec_name": "Fragrance Oils",
+            "spec_value": "Cosmetic-grade fragrance oils"
+          },
+          {
+            "spec_name": "Size",
+            "spec_value": "30gr tube"
+          },
+          {
+            "spec_name": "Customization",
+            "spec_value": "Branded tube with custom printing; Vanilla scent formulation"
+          }
+        ],
+        "supplier_spec": [
+          {
+            "spec_name": "Certification",
+            "spec_value": "BPOM cert/license preferred"
+          }
+        ],
+        "quantity": 1000,
+        "target_price": 2.96,
+        "needs_customization": true,
+        "num_options": 1,
+        "optional_product_spec": [
+          {
+            "spec_name": "Sustainability Certification",
+            "spec_value": "EcoCert or similar",
+            "description": "Obtaining a sustainability certification like EcoCert can enhance the product's appeal to environmentally conscious consumers. This certification assures customers that the product is made from sustainable ingredients and follows eco-friendly practices, which is increasingly important in today's market."
+          },
+          {
+            "spec_name": "Additional Fragrance Options",
+            "spec_value": "Citrus, Floral, or Herbal variants",
+            "description": "Offering additional fragrance options alongside the Vanilla scent can cater to a broader audience and meet diverse consumer preferences. This flexibility can attract customers who may not prefer vanilla, thus increasing market reach."
+          },
+          {
+            "spec_name": "Moisturizing Ingredients",
+            "spec_value": "Aloe Vera or Vitamin E",
+            "description": "Incorporating moisturizing ingredients like Aloe Vera or Vitamin E into the gel formula can enhance the product's appeal by providing skin benefits. This added value can differentiate the product from competitors and attract consumers looking for multifunctional beauty products."
+          },
+          {
+            "spec_name": "Travel-Friendly Packaging",
+            "spec_value": "Compact and leak-proof design",
+            "description": "Designing the tube to be compact and leak-proof can enhance its usability for travel. Consumers often seek portable options for their beauty products, and this feature can make the product more appealing for on-the-go use."
+          },
+          {
+            "spec_name": "Refillable Option",
+            "spec_value": "Refillable tube design",
+            "description": "Introducing a refillable tube design can promote sustainability and reduce waste. This option can attract eco-conscious consumers and create a loyal customer base that values environmentally friendly practices."
+          }
+        ]
+      },
+      "shortlistedProducts": [
+        {
+          "searchResult": {
+            "platform_id": 2,
+            "item_id": "10000025421708",
+            "title": "Luxury Portable Solid Perfume Long-Lasting Natural Eau De Parfum Oil Alcohol and Sulfate-Free Fragrance Gel",
+            "image_url": "https://s.alicdn.com/@sc04/kf/Sb0de1b67804249eab5eb8130549d1b70a.png_300x300.png",
+            "price_range": "$3.00",
+            "moq": 200,
+            "supplier_id": "241536541",
+            "supplier_name": "WELL STAND BIOTECHNOLOGY INC.",
+            "supplier_region": "TW"
+          },
+          "specAnalysis": {
+            "required_specs": [
+              {
+                "spec_name": "Product Type",
+                "target_value": "Gel Perfume",
+                "product_value": "Fragrance Gel",
+                "relevance_score": 4,
+                "reasoning": "The product is categorized as a fragrance gel, which is very close to the target specification of gel perfume."
+              },
+              {
+                "spec_name": "Fragrance Type",
+                "target_value": "Alcohol-free",
+                "product_value": "Alcohol and Sulfate-Free",
+                "relevance_score": 5,
+                "reasoning": "The product explicitly states it is alcohol-free, matching the target specification perfectly."
+              },
+              {
+                "spec_name": "Base Material",
+                "target_value": "Alcohol-free gel base",
+                "product_value": "Alcohol and Sulfate-Free Fragrance Gel",
+                "relevance_score": 4,
+                "reasoning": "The product is a fragrance gel that is alcohol-free, aligning well with the target specification."
+              },
+              {
+                "spec_name": "Fragrance Oils",
+                "target_value": "Cosmetic-grade fragrance oils",
+                "product_value": "Not specified",
+                "relevance_score": 2,
+                "reasoning": "The product does not specify the grade of fragrance oils used, leading to uncertainty."
+              },
+              {
+                "spec_name": "Size",
+                "target_value": "30gr tube",
+                "product_value": "2ml",
+                "relevance_score": 1,
+                "reasoning": "The size of the product is significantly smaller than the target specification."
+              },
+              {
+                "spec_name": "Customization",
+                "target_value": "Branded tube with custom printing; Vanilla scent formulation",
+                "product_value": "Customized logo, Customized packaging",
+                "relevance_score": 2,
+                "reasoning": "Customization options are available, but they do not specify branded tube printing or a vanilla scent."
+              }
+            ],
+            "optional_specs": [
+              {
+                "spec_name": "Sustainability Certification",
+                "target_value": "EcoCert or similar",
+                "product_value": "Eco-Friendly",
+                "relevance_score": 3,
+                "reasoning": "The product is labeled as eco-friendly, but lacks a specific sustainability certification."
+              },
+              {
+                "spec_name": "Additional Fragrance Options",
+                "target_value": "Citrus, Floral, or Herbal variants",
+                "product_value": "Fruity",
+                "relevance_score": 2,
+                "reasoning": "The product offers a fruity scent but does not include the specified additional fragrance options."
+              },
+              {
+                "spec_name": "Moisturizing Ingredients",
+                "target_value": "Aloe Vera or Vitamin E",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "There is no mention of moisturizing ingredients in the product details."
+              },
+              {
+                "spec_name": "Travel-Friendly Packaging",
+                "target_value": "Compact and leak-proof design",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "The product does not specify if the packaging is compact or leak-proof."
+              },
+              {
+                "spec_name": "Refillable Option",
+                "target_value": "Refillable tube design",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "There is no mention of a refillable option in the product details."
+              }
+            ],
+            "overall_relevance_score": 2.5,
+            "summary": "The product has some relevant features, particularly being alcohol-free and categorized as a fragrance gel. However, it falls short in size, specific fragrance oils, and customization details, leading to a moderate overall relevance score. The SKU available does not match the target specifications closely enough to be considered relevant.",
+            "most_relevant_sku_id": null
+          },
+          "shortlistScore": 51.6
+        }
+      ],
+      "summary": {
+        "total_analyzed": 145,
+        "total_shortlisted": 1,
+        "average_shortlist_score": 32.38,
+        "top_shortlist_score": 51.6
+      }
+    },
+    {
+      "item": {
+        "summary": "Alcohol-free gel perfume in a 30gr tube with a Woody scent profile, branded packaging, and BPOM certification preference.",
+        "product_spec": [
+          {
+            "spec_name": "Product Type",
+            "spec_value": "Gel Perfume"
+          },
+          {
+            "spec_name": "Fragrance Type",
+            "spec_value": "Alcohol-free"
+          },
+          {
+            "spec_name": "Base Material",
+            "spec_value": "Alcohol-free gel base"
+          },
+          {
+            "spec_name": "Fragrance Oils",
+            "spec_value": "Cosmetic-grade fragrance oils"
+          },
+          {
+            "spec_name": "Size",
+            "spec_value": "30gr tube"
+          },
+          {
+            "spec_name": "Customization",
+            "spec_value": "Branded tube with custom printing; Woody scent formulation"
+          }
+        ],
+        "supplier_spec": [
+          {
+            "spec_name": "Certification",
+            "spec_value": "BPOM cert/license preferred"
+          }
+        ],
+        "quantity": 1000,
+        "target_price": 2.96,
+        "needs_customization": true,
+        "num_options": 3,
+        "optional_product_spec": [
+          {
+            "spec_name": "Sustainability Certification",
+            "spec_value": "EcoCert or similar",
+            "description": "Obtaining a sustainability certification like EcoCert can enhance the product's appeal to environmentally conscious consumers. This certification assures customers that the product is made with sustainable practices, which is increasingly important in today's market."
+          },
+          {
+            "spec_name": "Skin Benefits",
+            "spec_value": "Infused with natural oils (e.g., jojoba, argan)",
+            "description": "Incorporating skin-beneficial ingredients such as jojoba or argan oil can provide moisturizing properties, making the gel perfume not only a fragrance but also a skincare product. This dual functionality can attract consumers looking for added value."
+          },
+          {
+            "spec_name": "Packaging Innovation",
+            "spec_value": "Recyclable or biodegradable packaging",
+            "description": "Using recyclable or biodegradable packaging aligns with current consumer preferences for eco-friendly products. This can reduce environmental impact and appeal to a growing demographic that prioritizes sustainability."
+          },
+          {
+            "spec_name": "Fragrance Longevity",
+            "spec_value": "Up to 12 hours",
+            "description": "Formulating the gel perfume for extended wear (up to 12 hours) can significantly enhance user satisfaction. Consumers often seek long-lasting fragrances, and this specification can set the product apart from competitors."
+          },
+          {
+            "spec_name": "Travel-Friendly Design",
+            "spec_value": "Compact and leak-proof tube",
+            "description": "Designing the tube to be compact and leak-proof makes it ideal for travel. This feature caters to consumers who are often on the go and prefer portable fragrance options, thus expanding the product's market reach."
+          }
+        ]
+      },
+      "shortlistedProducts": [
+        {
+          "searchResult": {
+            "platform_id": 2,
+            "item_id": "10000025421708",
+            "title": "Luxury Portable Solid Perfume Long-Lasting Natural Eau De Parfum Oil Alcohol and Sulfate-Free Fragrance Gel",
+            "image_url": "https://s.alicdn.com/@sc04/kf/Sb0de1b67804249eab5eb8130549d1b70a.png_300x300.png",
+            "price_range": "$3.00",
+            "moq": 200,
+            "supplier_id": "241536541",
+            "supplier_name": "WELL STAND BIOTECHNOLOGY INC.",
+            "supplier_region": "TW"
+          },
+          "specAnalysis": {
+            "required_specs": [
+              {
+                "spec_name": "Product Type",
+                "target_value": "Gel Perfume",
+                "product_value": "Fragrance Gel",
+                "relevance_score": 4,
+                "reasoning": "The product is categorized as a fragrance gel, which is very close to the target specification of gel perfume."
+              },
+              {
+                "spec_name": "Fragrance Type",
+                "target_value": "Alcohol-free",
+                "product_value": "Alcohol and Sulfate-Free",
+                "relevance_score": 5,
+                "reasoning": "The product explicitly states it is alcohol-free, matching the target specification perfectly."
+              },
+              {
+                "spec_name": "Base Material",
+                "target_value": "Alcohol-free gel base",
+                "product_value": "Alcohol and Sulfate-Free Fragrance Gel",
+                "relevance_score": 4,
+                "reasoning": "The product is a fragrance gel that is alcohol-free, aligning well with the target specification."
+              },
+              {
+                "spec_name": "Fragrance Oils",
+                "target_value": "Cosmetic-grade fragrance oils",
+                "product_value": "Not specified",
+                "relevance_score": 2,
+                "reasoning": "The product does not specify the grade of fragrance oils used, leading to uncertainty."
+              },
+              {
+                "spec_name": "Size",
+                "target_value": "30gr tube",
+                "product_value": "2ml",
+                "relevance_score": 1,
+                "reasoning": "The size of the product is significantly smaller than the target specification."
+              },
+              {
+                "spec_name": "Customization",
+                "target_value": "Branded tube with custom printing; Woody scent formulation",
+                "product_value": "Customized logo, Customized packaging, Custom Box Design",
+                "relevance_score": 2,
+                "reasoning": "Customization options are available, but they do not specifically mention branded tubes or woody scent formulation."
+              }
+            ],
+            "optional_specs": [
+              {
+                "spec_name": "Sustainability Certification",
+                "target_value": "EcoCert or similar",
+                "product_value": "Eco-Friendly",
+                "relevance_score": 3,
+                "reasoning": "The product is labeled as eco-friendly, but lacks specific certification like EcoCert."
+              },
+              {
+                "spec_name": "Skin Benefits",
+                "target_value": "Infused with natural oils (e.g., jojoba, argan)",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "There is no mention of any skin-beneficial ingredients in the product."
+              },
+              {
+                "spec_name": "Packaging Innovation",
+                "target_value": "Recyclable or biodegradable packaging",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "The packaging details are not provided, making it unclear if it is recyclable or biodegradable."
+              },
+              {
+                "spec_name": "Fragrance Longevity",
+                "target_value": "Up to 12 hours",
+                "product_value": "Not specified",
+                "relevance_score": 1,
+                "reasoning": "The product does not specify the longevity of the fragrance."
+              },
+              {
+                "spec_name": "Travel-Friendly Design",
+                "target_value": "Compact and leak-proof tube",
+                "product_value": "Portable, Size Small Convenient",
+                "relevance_score": 4,
+                "reasoning": "The product is described as portable and convenient, which aligns well with travel-friendly design."
+              }
+            ],
+            "overall_relevance_score": 2.5,
+            "summary": "The product has some strong matches with the target specifications, particularly in terms of being alcohol-free and a fragrance gel. However, it falls short in size, specific customization details, and lacks information on fragrance oils and longevity. Overall, it is a moderate match with significant areas for improvement.",
+            "most_relevant_sku_id": "10001112097862"
+          },
+          "shortlistScore": 54
+        },
+        {
+          "searchResult": {
+            "platform_id": 2,
+            "item_id": "1600509482297",
+            "title": "Alcohol Free Long Lasting Fragrance Perfume Body Mist Spray Wholesale Private Label Custom OEM Natural Parfum Plastic Bottle",
+            "image_url": "https://s.alicdn.com/@sc04/kf/H75864f9bef634006b09f16299aef1c41Y.jpg_300x300.jpg",
+            "price_range": "$2.35",
+            "moq": 1000,
+            "supplier_id": "213698433",
+            "supplier_name": "Xiamen Cleanss Daily Chemical Co., Ltd.",
+            "supplier_region": "CN"
+          },
+          "specAnalysis": {
+            "required_specs": [
+              {
+                "spec_name": "Product Type",
+                "target_value": "Gel Perfume",
+                "product_value": "Fragrance Mist",
+                "relevance_score": 2,
+                "reasoning": "The product is a fragrance mist, which is different from a gel perfume."
+              },
+              {
+                "spec_name": "Fragrance Type",
+                "target_value": "Alcohol-free",
+                "product_value": "Alcohol Free",
+                "relevance_score": 5,
+                "reasoning": "The product is explicitly labeled as alcohol-free, matching the requirement perfectly."
+              },
+              {
+                "spec_name": "Base Material",
+                "target_value": "Alcohol-free gel base",
+                "product_value": "Other",
+                "relevance_score": 2,
+                "reasoning": "The base material is not specified as an alcohol-free gel base, which is a significant difference."
+              },
+              {
+                "spec_name": "Fragrance Oils",
+                "target_value": "Cosmetic-grade fragrance oils",
+                "product_value": "Customized",
+                "relevance_score": 3,
+                "reasoning": "The fragrance is customizable, but it does not specify if the oils are cosmetic-grade."
+              },
+              {
+                "spec_name": "Size",
+                "target_value": "30gr tube",
+                "product_value": "Travel Size",
+                "relevance_score": 2,
+                "reasoning": "The size is not specified in grams and is instead described as travel size, which does not match the requirement."
+              },
+              {
+                "spec_name": "Customization",
+                "target_value": "Branded tube with custom printing; Woody scent formulation",
+                "product_value": "Customized packaging; Graphic customization",
+                "relevance_score": 3,
+                "reasoning": "Customization options are available, but the specific requirements for branding and scent formulation are not met."
+              }
+            ],
+            "optional_specs": [
+              {
+                "spec_name": "Sustainability Certification",
+                "target_value": "EcoCert or similar",
+                "product_value": "ISO22716, BRC , GMPC ,Sedex",
+                "relevance_score": 2,
+                "reasoning": "The product has certifications, but they do not include EcoCert or similar sustainability certifications."
+              },
+              {
+                "spec_name": "Skin Benefits",
+                "target_value": "Infused with natural oils (e.g., jojoba, argan)",
+                "product_value": "Moisturizer",
+                "relevance_score": 2,
+                "reasoning": "The product is a moisturizer but does not specify the inclusion of natural oils like jojoba or argan."
+              },
+              {
+                "spec_name": "Packaging Innovation",
+                "target_value": "Recyclable or biodegradable packaging",
+                "product_value": "Plastic Bottle",
+                "relevance_score": 2,
+                "reasoning": "The packaging is a plastic bottle, which does not meet the requirement for being recyclable or biodegradable."
+              },
+              {
+                "spec_name": "Fragrance Longevity",
+                "target_value": "Up to 12 hours",
+                "product_value": "Long Time Lasting Smell Fragrance Mist",
+                "relevance_score": 3,
+                "reasoning": "The product claims to have a long-lasting fragrance, but the specific duration is not provided."
+              },
+              {
+                "spec_name": "Travel-Friendly Design",
+                "target_value": "Compact and leak-proof tube",
+                "product_value": "Plastic Bottle",
+                "relevance_score": 2,
+                "reasoning": "The product is in a plastic bottle, which may not be compact or leak-proof as required."
+              }
+            ],
+            "overall_relevance_score": 2,
+            "summary": "The product has some relevant features, particularly being alcohol-free, but it does not meet several key specifications such as being a gel perfume, having a specific size, or offering the required customization and sustainability features. Overall, it is a poor match for the target specifications.",
+            "most_relevant_sku_id": null
+          },
+          "shortlistScore": 52.87
+        },
+        {
+          "searchResult": {
+            "platform_id": 2,
+            "item_id": "1601557146399",
+            "title": "Luxury Eco-Friendly Custom Carbon Fiber Car Fragrances Small Quantity Wholesale Aromatherapy Gel Freshener Aromatherapy",
+            "image_url": "https://s.alicdn.com/@sc04/kf/Hd02aa3b074334ddd96a5f834abb1c20db.jpg_300x300.jpg",
+            "price_range": "$2.99-$3.90",
+            "moq": 100,
+            "supplier_id": "238547362",
+            "supplier_name": "Dongguan Chiwei Metal Products Co., Ltd.",
+            "supplier_region": "CN"
+          },
+          "specAnalysis": {
+            "required_specs": [
+              {
+                "spec_name": "Product Type",
+                "target_value": "Gel Perfume",
+                "product_value": "Type: Gel",
+                "relevance_score": 5,
+                "reasoning": "The product is explicitly categorized as a gel type."
+              },
+              {
+                "spec_name": "Fragrance Type",
+                "target_value": "Alcohol-free",
+                "product_value": "Fragrance: Lemon, Ocean, COCO, cologne etc.",
+                "relevance_score": 2,
+                "reasoning": "The product does not specify that it is alcohol-free, which is a significant difference."
+              },
+              {
+                "spec_name": "Base Material",
+                "target_value": "Alcohol-free gel base",
+                "product_value": "Type: Gel",
+                "relevance_score": 3,
+                "reasoning": "While the product is a gel, it does not confirm that it is alcohol-free."
+              },
+              {
+                "spec_name": "Fragrance Oils",
+                "target_value": "Cosmetic-grade fragrance oils",
+                "product_value": "Natural Fragrance",
+                "relevance_score": 3,
+                "reasoning": "The product mentions natural fragrance but does not specify if the oils are cosmetic-grade."
+              },
+              {
+                "spec_name": "Size",
+                "target_value": "30gr tube",
+                "product_value": "Size: 13*75mm",
+                "relevance_score": 2,
+                "reasoning": "The size is not specified in grams and does not match the target size."
+              },
+              {
+                "spec_name": "Customization",
+                "target_value": "Branded tube with custom printing; Woody scent formulation",
+                "product_value": "Logo: Customer Logo",
+                "relevance_score": 2,
+                "reasoning": "Customization is available, but the scent formulation is not woody."
+              }
+            ],
+            "optional_specs": [
+              {
+                "spec_name": "Sustainability Certification",
+                "target_value": "EcoCert or similar",
+                "product_value": "N/A",
+                "relevance_score": 1,
+                "reasoning": "No sustainability certification is mentioned."
+              },
+              {
+                "spec_name": "Skin Benefits",
+                "target_value": "Infused with natural oils (e.g., jojoba, argan)",
+                "product_value": "N/A",
+                "relevance_score": 1,
+                "reasoning": "No mention of skin benefits or natural oils."
+              },
+              {
+                "spec_name": "Packaging Innovation",
+                "target_value": "Recyclable or biodegradable packaging",
+                "product_value": "Packing: Color Box Packing",
+                "relevance_score": 2,
+                "reasoning": "Packaging is not specified as recyclable or biodegradable."
+              },
+              {
+                "spec_name": "Fragrance Longevity",
+                "target_value": "Up to 12 hours",
+                "product_value": "long lasting scent",
+                "relevance_score": 3,
+                "reasoning": "The product claims to have a long-lasting scent, but no specific duration is provided."
+              },
+              {
+                "spec_name": "Travel-Friendly Design",
+                "target_value": "Compact and leak-proof tube",
+                "product_value": "N/A",
+                "relevance_score": 1,
+                "reasoning": "No information on the design being travel-friendly."
+              }
+            ],
+            "overall_relevance_score": 2.5,
+            "summary": "The product has a good match for being a gel type but falls short on several key specifications such as being alcohol-free, size, and specific fragrance formulation. Overall, it does not fully meet the target specifications.",
+            "most_relevant_sku_id": "107024325891"
+          },
+          "shortlistScore": 49.27
+        }
+      ],
+      "summary": {
+        "total_analyzed": 145,
+        "total_shortlisted": 3,
+        "average_shortlist_score": 32.03,
+        "top_shortlist_score": 54
+      }
+    }
+  ],
+  "summary": {
+    "total_items_processed": 2,
+    "total_products_found": 290,
+    "total_shortlisted": 4,
+    "average_shortlist_score": 51.94,
+    "top_shortlist_score": 54
+  },
+  "sourcing_description": "Item: Gel Perfume Alcohol-free fragrance in a gel format, similar to Korean solid perfumes. - Material: Alcohol-free gel base, cosmetic-grade fragrance oils (optional: similar to LONGTAKE/Addict formulas) - Size: 30gr tube - No. of Selections: 1 - Packaging: Branded tube with custom printing - Certification: Preference for supplier with BPOM cert/license - Quantity Desired: 1,000 pcs - Target Price: Max production cost ~USD 2.96/pc - Customization: YES - Customization needs: Branded tube with printing; scent formulation based on Vanilla profile - Reference Link: https://www.amazon.com/LONGTAKE-Solid-Perfume-Alcohol-Free-Cashmere-like/dp/B0D1QHQSZ6?th=1 - Additional Context: LONGTAKE Solid Perfume in Sandalwood Scent: A long-lasting, alcohol-free, vegan gel fragrance with a cashmere-like finish, suitable for travel. --- Item: Gel Perfume Alcohol-free fragrance in a gel format, similar to Korean solid perfumes. - Material: Alcohol-free gel base, cosmetic-grade fragrance oils (optional: similar to LONGTAKE/Addict formulas) - Size: 30gr tube - No. of Selections: 3 - Packaging: Branded tube with custom printing - Certification: Preference for supplier with BPOM cert/license - Quantity Desired: 1,000 pcs - Target Price: Max production cost ~USD 2.96/pc - Customization: YES - Customization needs: Branded tube with printing; scent formulation based on Woody profiles - Reference Link: https://a-ddictbeauty.com/products/naked-sandalwood-201 - Additional Context: Naked Sandalwood 201: A non-toxic, alcohol-free solid perfume with earthy, rich sandalwood and herbal freshness, designed for layering to create a unique, long-lasting scent."
+}
