@@ -1,11 +1,12 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Card, CardContent, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { ChevronLeft, ChevronRight, HelpCircle, Loader2 } from "lucide-react"
-import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
+import { ChevronLeft, ChevronRight, Loader2 } from "lucide-react"
+import { TooltipProvider } from "@/components/ui/tooltip"
 import { SourcingWorkflowOutput } from "@/types/sourcing-workflow-output"
+import { getMastraApiUrl } from "@/lib/utils"
+import { ProductItem } from "@/components/product-item"
 
 interface SourcingRequestViewProps {
   workflowRunId: string
@@ -23,7 +24,8 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
         setLoading(true)
         setError(null)
 
-        const response = await fetch(`http://localhost:4111/api/workflows/sourcingWorkflow/runs/${workflowRunId}`)
+        const mastraApiUrl = getMastraApiUrl()
+        const response = await fetch(`${mastraApiUrl}/api/workflows/sourcingWorkflow/runs/${workflowRunId}`)
 
         if (!response.ok) {
           throw new Error(`Failed to fetch data: ${response.status} ${response.statusText}`)
@@ -83,23 +85,6 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
   }
 
   const currentItem = data.all_search_results[currentItemIndex]
-
-  const getScoreColor = (score: number) => {
-    if (score >= 4) return "text-green-600"
-    if (score >= 3) return "text-yellow-600"
-    return "text-red-600"
-  }
-
-  const getPlatformInfo = (platformId: number) => {
-    switch (platformId) {
-      case 2:
-        return { name: "Alibaba", color: "bg-orange-100 text-orange-800 border-orange-200" }
-      case 1:
-        return { name: "1688", color: "bg-red-100 text-red-800 border-red-200" }
-      default:
-        return { name: "Unknown Platform", color: "bg-gray-100 text-gray-800 border-gray-200" }
-    }
-  }
 
   return (
     <TooltipProvider>
@@ -223,123 +208,7 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {currentItem.shortlistedProducts.map((product, productIndex) => (
-                <Card key={productIndex} className="bg-card border-border">
-                  <CardHeader className="pb-4">
-                    <div className="relative">
-                      <img
-                        src={product.searchResult.image_url || "/placeholder.svg"}
-                        alt={product.searchResult.title}
-                        className="w-full h-48 object-contain bg-white rounded-lg"
-                        onError={(e) => {
-                          const target = e.target as HTMLImageElement;
-                          target.src = "/placeholder.svg";
-                        }}
-                      />
-                    </div>
-                  </CardHeader>
-                  <CardContent className="space-y-4">
-                    <div className="flex items-start justify-between gap-2 mb-2">
-                      <h3 className="font-sans font-medium text-foreground leading-tight text-sm line-clamp-2 flex-1">
-                        {product.searchResult.title}
-                      </h3>
-                      <Badge className={`text-xs ${getPlatformInfo(product.searchResult.platform_id).color}`}>
-                        {getPlatformInfo(product.searchResult.platform_id).name}
-                      </Badge>
-                    </div>
-
-                    <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-2">
-                        <span className="text-xs text-muted-foreground">
-                          {product.shortlistScore.toFixed(1)}%
-                        </span>
-                      </div>
-                      <div className="text-sm text-foreground font-medium">{product.searchResult.price_range}</div>
-                    </div>
-
-                    <div>
-                      <div className="flex items-center gap-2 mb-2">
-                        <span className="text-xs text-muted-foreground">Supplier:</span>
-                        <span className="text-xs text-foreground truncate">{product.searchResult.supplier_name}</span>
-                      </div>
-                      <div className="flex items-center gap-2">
-                        <span className="text-xs text-muted-foreground">MOQ:</span>
-                        <span className="text-xs text-foreground">{product.searchResult.moq}</span>
-                      </div>
-                    </div>
-
-                    <div>
-                      <h4 className="text-sm font-medium text-foreground mb-2">Specification Analysis</h4>
-                      <div className="border border-border rounded-lg overflow-hidden">
-                        <table className="w-full text-xs">
-                          <thead className="bg-muted">
-                            <tr>
-                              <th className="text-left p-2 font-medium text-muted-foreground">Name</th>
-                              <th className="text-left p-2 font-medium text-muted-foreground">Target</th>
-                              <th className="text-left p-2 font-medium text-muted-foreground">Product</th>
-                              <th className="text-left p-2 font-medium text-muted-foreground">Score</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            {product.specAnalysis.required_specs.map((spec, specIndex) => (
-                              <tr key={`req-${specIndex}`} className="border-t border-border">
-                                <td className="p-2 text-primary font-medium">{spec.spec_name}</td>
-                                <td className="p-2 text-foreground">{spec.target_value}</td>
-                                <td className="p-2 text-foreground">{spec.product_value}</td>
-                                <td className="p-2">
-                                  <div className="flex items-center gap-1">
-                                    <span className={`font-medium ${getScoreColor(spec.relevance_score)}`}>
-                                      {spec.relevance_score}/5
-                                    </span>
-                                    <Tooltip>
-                                      <TooltipTrigger asChild>
-                                        <button className="inline-flex items-center justify-center">
-                                          <HelpCircle className="h-3 w-3 text-muted-foreground hover:text-foreground transition-colors" />
-                                        </button>
-                                      </TooltipTrigger>
-                                      <TooltipContent>
-                                        <p className="max-w-xs">{spec.reasoning}</p>
-                                      </TooltipContent>
-                                    </Tooltip>
-                                  </div>
-                                </td>
-                              </tr>
-                            ))}
-                            {product.specAnalysis.optional_specs.map((spec, specIndex) => (
-                              <tr key={`opt-${specIndex}`} className="border-t border-border">
-                                <td className="p-2 text-secondary font-medium">{spec.spec_name}</td>
-                                <td className="p-2 text-foreground">{spec.target_value}</td>
-                                <td className="p-2 text-foreground">{spec.product_value}</td>
-                                <td className="p-2">
-                                  <div className="flex items-center gap-1">
-                                    <span className={`font-medium ${getScoreColor(spec.relevance_score)}`}>
-                                      {spec.relevance_score}/5
-                                    </span>
-                                    <Tooltip>
-                                      <TooltipTrigger asChild>
-                                        <button className="inline-flex items-center justify-center">
-                                          <HelpCircle className="h-3 w-3 text-muted-foreground hover:text-foreground transition-colors" />
-                                        </button>
-                                      </TooltipTrigger>
-                                      <TooltipContent>
-                                        <p className="max-w-xs">{spec.reasoning}</p>
-                                      </TooltipContent>
-                                    </Tooltip>
-                                  </div>
-                                </td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
-                      </div>
-                    </div>
-
-                    {product.specAnalysis.summary && (
-                      <div className="text-xs text-muted-foreground bg-muted/50 p-3 rounded-lg">
-                        <strong>Analysis Summary:</strong> {product.specAnalysis.summary}
-                      </div>
-                    )}
-                  </CardContent>
-                </Card>
+                <ProductItem key={productIndex} product={product} />
               ))}
             </div>
           )}
