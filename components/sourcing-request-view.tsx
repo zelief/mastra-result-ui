@@ -1,23 +1,77 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { ChevronLeft, ChevronRight, HelpCircle } from "lucide-react"
+import { ChevronLeft, ChevronRight, HelpCircle, Loader2 } from "lucide-react"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { SourcingWorkflowOutput } from "@/types/sourcing-workflow-output"
 
-// Import the actual data from the JSON file
-import sourcingData from "@/1369.json"
+interface SourcingRequestViewProps {
+  workflowRunId: string
+}
 
-export function SourcingRequestView() {
+export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps) {
   const [currentItemIndex, setCurrentItemIndex] = useState(0)
+  const [data, setData] = useState<SourcingWorkflowOutput | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
-  // Cast the imported data to the correct type
-  const data = sourcingData as SourcingWorkflowOutput
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true)
+        setError(null)
+
+        const response = await fetch(`http://localhost:4111/api/workflows/sourcingWorkflow/runs/${workflowRunId}`)
+
+        if (!response.ok) {
+          throw new Error(`Failed to fetch data: ${response.status} ${response.statusText}`)
+        }
+
+        const result = await response.json()
+
+        // Extract the result from the snapshot
+        const workflowData = result.snapshot.result as SourcingWorkflowOutput
+        setData(workflowData)
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'An error occurred while fetching data')
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchData()
+  }, [workflowRunId])
+
+  // Loading state
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto p-6">
+        <div className="text-center py-12">
+          <Loader2 className="h-8 w-8 animate-spin mx-auto mb-4 text-muted-foreground" />
+          <h2 className="text-xl font-semibold text-foreground mb-2">Loading sourcing data...</h2>
+          <p className="text-muted-foreground">Please wait while we fetch the workflow results.</p>
+        </div>
+      </div>
+    )
+  }
+
+  // Error state
+  if (error) {
+    return (
+      <div className="max-w-7xl mx-auto p-6">
+        <div className="text-center py-12">
+          <h2 className="text-xl font-semibold text-foreground mb-2">Error loading data</h2>
+          <p className="text-muted-foreground mb-4">{error}</p>
+          <p className="text-sm text-muted-foreground">Please check the workflow run ID and try again.</p>
+        </div>
+      </div>
+    )
+  }
 
   // Add error handling for empty data
-  if (!data.all_search_results || data.all_search_results.length === 0) {
+  if (!data || !data.all_search_results || data.all_search_results.length === 0) {
     return (
       <div className="max-w-7xl mx-auto p-6">
         <div className="text-center py-12">

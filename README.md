@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mastra Result UI
+
+A Next.js application for viewing sourcing workflow results from Mastra.
+
+## Features
+
+- Dynamic routing with workflow run ID (`/:workflow_run_id`)
+- Fetches data from Mastra API endpoint
+- Displays sourcing workflow results with product analysis
+- Responsive design with modern UI components
 
 ## Getting Started
 
-First, run the development server:
+1. Install dependencies:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Usage
+
+1. **Home Page**: Enter a workflow run ID in the form to view results
+2. **Dynamic Route**: Navigate directly to `/{workflow_run_id}` to view specific workflow results
+
+## API Integration
+
+The application fetches data from:
+
+```
+http://localhost:4111/api/workflows/sourcingWorkflow/runs/:workflow_run_id
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The response should contain a `snapshot.result` field that matches the `SourcingWorkflowOutput` type.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `app/[workflow_run_id]/page.tsx` - Dynamic route page
+- `app/page.tsx` - Home page with workflow ID input
+- `components/sourcing-request-view.tsx` - Main component for displaying results
+- `types/sourcing-workflow-output.ts` - TypeScript types for workflow data
 
-## Learn More
+## Development
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Built with Next.js 15
+- Uses TypeScript for type safety
+- Styled with Tailwind CSS
+- UI components from shadcn/ui
