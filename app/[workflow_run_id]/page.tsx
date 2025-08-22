@@ -1,15 +1,17 @@
 import { SourcingRequestView } from "@/components/sourcing-request-view"
 
 interface PageProps {
-    params: {
+    params: Promise<{
         workflow_run_id: string
-    }
+    }>
 }
 
-export default function WorkflowRunPage({ params }: PageProps) {
+export default async function WorkflowRunPage({ params }: PageProps) {
+    const { workflow_run_id } = await params
+
     return (
         <div className="min-h-screen bg-background">
-            <SourcingRequestView workflowRunId={params.workflow_run_id} />
+            <SourcingRequestView workflowRunId={workflow_run_id} />
         </div>
     )
 }
