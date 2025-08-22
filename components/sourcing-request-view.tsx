@@ -90,6 +90,17 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
     return "text-red-600"
   }
 
+  const getPlatformInfo = (platformId: number) => {
+    switch (platformId) {
+      case 2:
+        return { name: "Alibaba", color: "bg-orange-100 text-orange-800 border-orange-200" }
+      case 1:
+        return { name: "1688", color: "bg-red-100 text-red-800 border-red-200" }
+      default:
+        return { name: "Unknown Platform", color: "bg-gray-100 text-gray-800 border-gray-200" }
+    }
+  }
+
   return (
     <TooltipProvider>
       <div className="max-w-7xl mx-auto p-6 space-y-6">
@@ -227,9 +238,14 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
                     </div>
                   </CardHeader>
                   <CardContent className="space-y-4">
-                    <h3 className="font-sans font-medium text-foreground leading-tight text-sm line-clamp-2">
-                      {product.searchResult.title}
-                    </h3>
+                    <div className="flex items-start justify-between gap-2 mb-2">
+                      <h3 className="font-sans font-medium text-foreground leading-tight text-sm line-clamp-2 flex-1">
+                        {product.searchResult.title}
+                      </h3>
+                      <Badge className={`text-xs ${getPlatformInfo(product.searchResult.platform_id).color}`}>
+                        {getPlatformInfo(product.searchResult.platform_id).name}
+                      </Badge>
+                    </div>
 
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-2">
