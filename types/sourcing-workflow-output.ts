@@ -93,6 +93,7 @@ export interface SourcingWorkflowSummary {
 
 export interface SourcingWorkflowOutput {
   all_search_results: SearchWorkflowOutput[];
+  sourcing_request_id?: string;
   summary: SourcingWorkflowSummary;
   sourcing_description: string;
 }

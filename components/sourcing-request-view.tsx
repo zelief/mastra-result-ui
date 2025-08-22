@@ -101,9 +101,14 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
       <div className="max-w-7xl mx-auto p-6 space-y-6">
         {/* Header */}
         <div className="flex items-center justify-between">
-          <h1 className="text-2xl font-sans font-semibold text-foreground max-w-2xl">
-            {currentItem.item.summary}
-          </h1>
+          <div>
+            <h1 className="text-2xl font-sans font-semibold text-foreground max-w-2xl">
+              {currentItem.item.summary}
+            </h1>
+            <p className="text-sm text-muted-foreground mt-1">
+              Sourcing Request ID: {data.sourcing_request_id || "UNKNOWN"}
+            </p>
+          </div>
           {data.all_search_results.length > 1 && (
             <div className="flex items-center gap-2">
               <button
