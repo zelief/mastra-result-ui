@@ -2,13 +2,13 @@
 // Generated from the Mastra workflow schemas
 
 export enum PlatformEnum {
-  TM_API = 1,
-  ALIBABA = 2,
-  LAZADA = 3,
-  EC21 = 4,
-  DHGATE = 5,
-  TAOBAO = 6,
-  MADE_IN_CHINA = 8,
+  TM_API = "1",
+  ALIBABA = "2",
+  LAZADA = "3",
+  EC21 = "4",
+  DHGATE = "5",
+  TAOBAO = "6",
+  MADE_IN_CHINA = "8",
 }
 
 // Base schemas
