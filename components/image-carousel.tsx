@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
+import Image from "next/image"
 
 interface ImageCarouselProps {
   images: string[]
@@ -21,13 +22,13 @@ export function ImageCarousel({ images, alt, className = "" }: ImageCarouselProp
   }
 
   const goToPrevious = () => {
-    setCurrentIndex((prevIndex) => 
+    setCurrentIndex((prevIndex) =>
       prevIndex === 0 ? images.length - 1 : prevIndex - 1
     )
   }
 
   const goToNext = () => {
-    setCurrentIndex((prevIndex) => 
+    setCurrentIndex((prevIndex) =>
       prevIndex === images.length - 1 ? 0 : prevIndex + 1
     )
   }
@@ -40,13 +41,13 @@ export function ImageCarousel({ images, alt, className = "" }: ImageCarouselProp
     <div className={`relative w-full h-48 ${className}`}>
       {/* Main Image */}
       <div className="w-full h-full bg-white rounded-lg overflow-hidden">
-        <img
+        <Image
           src={images[currentIndex]}
           alt={`${alt} - Image ${currentIndex + 1}`}
-          className="w-full h-full object-contain"
+          fill
+          className="object-contain"
           onError={(e) => {
-            const target = e.target as HTMLImageElement;
-            target.src = "/placeholder.svg";
+            console.error(e)
           }}
         />
       </div>
@@ -85,11 +86,10 @@ export function ImageCarousel({ images, alt, className = "" }: ImageCarouselProp
             <button
               key={index}
               onClick={() => goToImage(index)}
-              className={`w-2 h-2 rounded-full transition-colors ${
-                index === currentIndex 
-                  ? "bg-white" 
-                  : "bg-white/50 hover:bg-white/75"
-              }`}
+              className={`w-2 h-2 rounded-full transition-colors ${index === currentIndex
+                ? "bg-white"
+                : "bg-white/50 hover:bg-white/75"
+                }`}
               aria-label={`Go to image ${index + 1}`}
             />
           ))}
