@@ -51,11 +51,11 @@ export function ProductItem({ product }: ProductItemProps) {
     const getPlatformInfo = (platformId: string) => {
         switch (platformId) {
             case '2':
-                return { name: "Alibaba", color: "bg-orange-100 text-orange-800 border-orange-200" }
+                return { name: "Alibaba", color: "bg-orange-100 text-orange-800 border-orange-200", currency: "USD" }
             case '1':
-                return { name: "1688", color: "bg-red-100 text-red-800 border-red-200" }
+                return { name: "1688", color: "bg-red-100 text-red-800 border-red-200", currency: "CNY" }
             default:
-                return { name: "Unknown Platform", color: "bg-gray-100 text-gray-800 border-gray-200" }
+                return { name: "Unknown Platform", color: "bg-gray-100 text-gray-800 border-gray-200", currency: "Unknown" }
         }
     }
 
@@ -111,7 +111,7 @@ export function ProductItem({ product }: ProductItemProps) {
                             {product.shortlistScore.toFixed(1)}%
                         </span>
                     </div>
-                    <div className="text-sm text-foreground font-medium">{product.searchResult.price_range}</div>
+                    <div className="text-sm text-foreground font-medium">{product.searchResult.price_range} {getPlatformInfo(product.searchResult.platform_id).currency}</div>
                 </div>
 
                 <div>

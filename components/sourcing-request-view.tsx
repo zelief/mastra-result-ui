@@ -192,8 +192,12 @@ export function SourcingRequestView({ workflowRunId }: SourcingRequestViewProps)
                 <span className="text-sm font-medium">{currentItem.item.quantity.toLocaleString()} pcs</span>
               </div>
               <div className="flex justify-between">
-                <span className="text-sm text-muted-foreground">Target Price:</span>
-                <span className="text-sm font-medium">${currentItem.item.target_price}</span>
+                <span className="text-sm text-muted-foreground">Target Price USD:</span>
+                <span className="text-sm font-medium">{currentItem.item.target_price_usd} USD</span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-sm text-muted-foreground">Target Price CNY:</span>
+                <span className="text-sm font-medium">{currentItem.item.target_price_cny} CNY</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-sm text-muted-foreground">Customization:</span>
