@@ -29,6 +29,9 @@ export interface ItemSchema {
   supplier_spec: ProductSpec[];
   quantity: number;
   target_price: number;
+  target_price_cny: number;
+  target_price_usd: number;
+  target_price_currency: string;
   needs_customization: boolean;
   num_options?: number;
   optional_product_spec: OptionalProductSpec[];
