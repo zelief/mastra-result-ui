@@ -46,7 +46,7 @@ export async function runSupplierCommunicationWorkflow(
   input: WorkflowInput
 ): Promise<WorkflowOutput> {
   const response = await fetch(
-    `${API_BASE}/api/workflows/supplierCommunicationWorkflow/start-async`,
+    `${API_BASE}/api/workflows/supplierCommunicationChineseWorkflow/start-async`,
     {
       method: "POST",
       headers: {
