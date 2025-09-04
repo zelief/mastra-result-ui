@@ -11,6 +11,7 @@ import { runSupplierCommunicationWorkflow, SupplierAgentState, Message } from "@
 interface ChatData {
   state: SupplierAgentState
   conversation: Message[]
+  language?: 'english' | 'chinese'
 }
 
 export default function SupplierChatPage() {
@@ -53,11 +54,12 @@ export default function SupplierChatPage() {
       const result = await runSupplierCommunicationWorkflow({
         state: data.state,
         conversation: data.conversation
-      })
+      }, data.language || 'english')
 
       const updatedData = {
         state: result.state,
-        conversation: result.conversation
+        conversation: result.conversation,
+        language: data.language
       }
 
       setChatData(updatedData)
@@ -96,11 +98,12 @@ export default function SupplierChatPage() {
       const result = await runSupplierCommunicationWorkflow({
         state: chatData.state,
         conversation: updatedConversation
-      })
+      }, chatData.language || 'english')
 
       const finalData = {
         state: result.state,
-        conversation: result.conversation
+        conversation: result.conversation,
+        language: chatData.language
       }
 
       setChatData(finalData)

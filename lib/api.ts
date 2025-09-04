@@ -43,10 +43,15 @@ export interface WorkflowOutput {
 }
 
 export async function runSupplierCommunicationWorkflow(
-  input: WorkflowInput
+  input: WorkflowInput,
+  language: 'english' | 'chinese' = 'english'
 ): Promise<WorkflowOutput> {
+  const workflowId = language === 'chinese' 
+    ? 'supplierCommunicationChineseWorkflow' 
+    : 'supplierCommunicationWorkflow';
+    
   const response = await fetch(
-    `${API_BASE}/api/workflows/supplierCommunicationChineseWorkflow/start-async`,
+    `${API_BASE}/api/workflows/${workflowId}/start-async`,
     {
       method: "POST",
       headers: {

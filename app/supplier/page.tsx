@@ -23,6 +23,7 @@ export default function SupplierEntryPage() {
     { description: "Confirm product specifications and quality standards", status: "BACKLOG" },
     { description: "Discuss customization options for branding and packaging", status: "BACKLOG" }
   ])
+  const [language, setLanguage] = useState<'english' | 'chinese'>('english')
   const [isSubmitting, setIsSubmitting] = useState(false)
 
   const handleItemChange = (field: keyof Item, value: string | number) => {
@@ -80,7 +81,8 @@ export default function SupplierEntryPage() {
 
       localStorage.setItem(`supplier-chat-${chatId}`, JSON.stringify({
         state: initialState,
-        conversation: []
+        conversation: [],
+        language: language
       }))
 
       router.push(`/supplier/chat/${chatId}`)
@@ -194,6 +196,43 @@ export default function SupplierEntryPage() {
                     />
                   </div>
                 </div>
+              </div>
+            </div>
+
+            {/* Language Selection */}
+            <div>
+              <h2 className="text-lg font-medium text-foreground mb-4">Language Settings</h2>
+              <div className="space-y-3">
+                <label className="block text-sm font-medium text-foreground mb-2">
+                  Communication Language
+                </label>
+                <div className="flex gap-4">
+                  <label className="flex items-center space-x-2 cursor-pointer">
+                    <input
+                      type="radio"
+                      name="language"
+                      value="english"
+                      checked={language === 'english'}
+                      onChange={(e) => setLanguage(e.target.value as 'english' | 'chinese')}
+                      className="w-4 h-4 text-primary bg-background border-gray-300 focus:ring-primary focus:ring-2"
+                    />
+                    <span className="text-sm text-foreground">English</span>
+                  </label>
+                  <label className="flex items-center space-x-2 cursor-pointer">
+                    <input
+                      type="radio"
+                      name="language"
+                      value="chinese"
+                      checked={language === 'chinese'}
+                      onChange={(e) => setLanguage(e.target.value as 'english' | 'chinese')}
+                      className="w-4 h-4 text-primary bg-background border-gray-300 focus:ring-primary focus:ring-2"
+                    />
+                    <span className="text-sm text-foreground">Chinese (中文)</span>
+                  </label>
+                </div>
+                <p className="text-xs text-muted-foreground">
+                  Select the language for supplier communication. The agent will communicate with suppliers in the selected language.
+                </p>
               </div>
             </div>
 
