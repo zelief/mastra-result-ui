@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:4111";
+const API_BASE = process.env.NEXT_PUBLIC_SUPPLIER_MASTRA_API_URL;
 
 export interface Message {
   role: string;
@@ -44,12 +44,13 @@ export interface WorkflowOutput {
 
 export async function runSupplierCommunicationWorkflow(
   input: WorkflowInput,
-  language: 'english' | 'chinese' = 'english'
+  language: "english" | "chinese" = "english"
 ): Promise<WorkflowOutput> {
-  const workflowId = language === 'chinese' 
-    ? 'supplierCommunicationChineseWorkflow' 
-    : 'supplierCommunicationWorkflow';
-    
+  const workflowId =
+    language === "chinese"
+      ? "supplierCommunicationChineseWorkflow"
+      : "supplierCommunicationWorkflow";
+
   const response = await fetch(
     `${API_BASE}/api/workflows/${workflowId}/start-async`,
     {
