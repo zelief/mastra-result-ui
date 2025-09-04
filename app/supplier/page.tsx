@@ -10,24 +10,32 @@ import { Item, Goal } from "@/lib/api"
 export default function SupplierEntryPage() {
   const router = useRouter()
   const [originalItem, setOriginalItem] = useState<Item>({
-    itemDescription: "",
+    itemDescription: "Custom wireless Bluetooth earbuds with noise cancellation",
+    price: 25.50,
+    moq: 1000,
+    leadTimeInDays: 15,
+    dimensions: "2.5cm x 1.8cm x 1.2cm",
+    weightInKg: 0.008,
+    packaging: "Individual retail boxes with custom branding"
   })
   const [goals, setGoals] = useState<Goal[]>([
-    { description: "", status: "BACKLOG" }
+    { description: "Negotiate price to under $23 per unit", status: "BACKLOG" },
+    { description: "Confirm product specifications and quality standards", status: "BACKLOG" },
+    { description: "Discuss customization options for branding and packaging", status: "BACKLOG" }
   ])
   const [isSubmitting, setIsSubmitting] = useState(false)
 
   const handleItemChange = (field: keyof Item, value: string | number) => {
     setOriginalItem(prev => ({
       ...prev,
-      [field]: field === 'itemDescription' || field === 'dimensions' || field === 'packaging' 
-        ? value 
+      [field]: field === 'itemDescription' || field === 'dimensions' || field === 'packaging'
+        ? value
         : value === '' ? undefined : Number(value)
     }))
   }
 
   const handleGoalChange = (index: number, description: string) => {
-    setGoals(prev => prev.map((goal, i) => 
+    setGoals(prev => prev.map((goal, i) =>
       i === index ? { ...goal, description } : goal
     ))
   }
@@ -42,7 +50,7 @@ export default function SupplierEntryPage() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    
+
     if (!originalItem.itemDescription.trim()) {
       alert("Please provide an item description")
       return
@@ -55,24 +63,26 @@ export default function SupplierEntryPage() {
     }
 
     setIsSubmitting(true)
-    
+
     try {
       const chatId = Date.now().toString()
       const initialState = {
         originalItem,
-        supplierVerifiedItem: originalItem,
+        supplierVerifiedItem: {
+          itemDescription: originalItem.itemDescription,
+        },
         goals: validGoals.map((goal, index) => ({
           ...goal,
           status: index === 0 ? "IN_PROGRESS" as const : "BACKLOG" as const
         })),
         escalationSummaries: []
       }
-      
+
       localStorage.setItem(`supplier-chat-${chatId}`, JSON.stringify({
         state: initialState,
         conversation: []
       }))
-      
+
       router.push(`/supplier/chat/${chatId}`)
     } catch (error) {
       console.error('Error starting chat:', error)
@@ -89,7 +99,7 @@ export default function SupplierEntryPage() {
           <h1 className="text-2xl font-semibold text-foreground mb-6">
             Supplier Communication Setup
           </h1>
-          
+
           <form onSubmit={handleSubmit} className="space-y-6">
             {/* Original Item Section */}
             <div>
@@ -106,7 +116,7 @@ export default function SupplierEntryPage() {
                     required
                   />
                 </div>
-                
+
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
@@ -120,7 +130,7 @@ export default function SupplierEntryPage() {
                       placeholder="Target price"
                     />
                   </div>
-                  
+
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
                       MOQ (Minimum Order Quantity)
@@ -133,7 +143,7 @@ export default function SupplierEntryPage() {
                     />
                   </div>
                 </div>
-                
+
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
@@ -146,7 +156,7 @@ export default function SupplierEntryPage() {
                       placeholder="Lead time in days"
                     />
                   </div>
-                  
+
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
                       Weight (kg)
@@ -160,7 +170,7 @@ export default function SupplierEntryPage() {
                     />
                   </div>
                 </div>
-                
+
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
@@ -172,7 +182,7 @@ export default function SupplierEntryPage() {
                       placeholder="e.g., 10cm x 5cm x 2cm"
                     />
                   </div>
-                  
+
                   <div>
                     <label className="block text-sm font-medium text-foreground mb-2">
                       Packaging
@@ -211,7 +221,7 @@ export default function SupplierEntryPage() {
                     )}
                   </div>
                 ))}
-                
+
                 <Button
                   type="button"
                   variant="outline"
