@@ -249,6 +249,7 @@ interface ProductData {
 export default function GalleryDemoPage() {
     const [jsonInput, setJsonInput] = useState(sampleJson);
     const [threshold, setThreshold] = useState(0.7);
+    const [method, setMethod] = useState('mobilenet');
     const [products, setProducts] = useState<Product[]>([]);
     const [duplicateGroups, setDuplicateGroups] = useState<string[][]>([]);
     const [loading, setLoading] = useState(false);
@@ -266,7 +267,7 @@ export default function GalleryDemoPage() {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    data: { urls, threshold }
+                    data: { urls, threshold, method }
                 })
             });
             const result = await response.json();
@@ -303,17 +304,30 @@ export default function GalleryDemoPage() {
                                 placeholder="Enter product JSON data..."
                             />
                         </div>
-                        <div className="mb-4">
-                            <label className="block text-sm font-medium mb-2">Threshold (0-1):</label>
-                            <input
-                                type="number"
-                                min="0"
-                                max="1"
-                                step="0.1"
-                                value={threshold}
-                                onChange={(e) => setThreshold(Number(e.target.value))}
-                                className="w-32 p-2 border rounded"
-                            />
+                        <div className="mb-4 flex gap-4">
+                            <div>
+                                <label className="block text-sm font-medium mb-2">Threshold (0-1):</label>
+                                <input
+                                    type="number"
+                                    min="0"
+                                    max="1"
+                                    step="0.1"
+                                    value={threshold}
+                                    onChange={(e) => setThreshold(Number(e.target.value))}
+                                    className="w-32 p-2 border rounded"
+                                />
+                            </div>
+                            <div>
+                                <label className="block text-sm font-medium mb-2">Method:</label>
+                                <select
+                                    value={method}
+                                    onChange={(e) => setMethod(e.target.value)}
+                                    className="p-2 border rounded"
+                                >
+                                    <option value="mobilenet">MobileNet</option>
+                                    <option value="gemini">Gemini</option>
+                                </select>
+                            </div>
                         </div>
                         {error && <div className="mb-4 text-red-600 text-sm">{error}</div>}
                         <button
