@@ -4,44 +4,84 @@ import { useState } from "react";
 import { ImageGallery } from "@/components/image-gallery";
 
 
-const sampleUrls = `https://cbu01.alicdn.com/O1CN01JOyWVG25R8BumbClD_!!2200812377522-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01YExKvx2HrwlsQw6Us_!!2208022379205-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01KE7eLd1X2DoZmNx1j_!!2220248932865-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01Usar5P1KXjy85B4Tt_!!2201223191174-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01Ato0q31qcNjhCAham_!!2219438855516-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01lXEorL1mWeGNyITKI_!!2207270434962-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01Nf0ZH41gBE2k198cH_!!2217157444103-0-cib.jpg
-https://cbu01.alicdn.com/O1CN017j886f2C32jUFpiNo_!!2219458398417-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01rHpeCk1DgiPtZRhJB_!!2217495140246-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01vctg851QI46VTpy6u_!!2217137381952-0-cib.jpg
-https://cbu01.alicdn.com/O1CN01SCA9td1HBLo8IIeHJ_!!2219436090719-0-cib.jpg`;
+const sampleJson = `{
+  "results": [
+    {
+      "platform_id": "1",
+      "item_id": "788270605643",
+      "title": "旋转拖把桶套装家用2023新款双驱动免手洗一拖净吸水墩布干湿两用",
+      "image_url": "https://cbu01.alicdn.com/O1CN01yRh6WE1kjLzBcwPLP_!!2216521214719-0-cib.jpg",
+      "price_range": "40.00",
+      "moq": 0,
+      "supplier_id": "b2b-22165212147198a6d7",
+      "supplier_name": "霸州市多旺厚金属制品厂",
+      "supplier_region": "CN"
+    },
+    {
+      "platform_id": "1",
+      "item_id": "820970671544",
+      "title": "加厚升级版拖把免手洗家用自拧水旋转拖把家用带桶一拖净拖布批发",
+      "image_url": "https://cbu01.alicdn.com/O1CN01MaI3TR1qJ92YUsIpm_!!2217815875474-0-cib.jpg",
+      "price_range": "53.10",
+      "moq": 0,
+      "supplier_id": "b2b-2217815875474e65c8",
+      "supplier_name": "慕川家(义乌市)家居用品有限公司",
+      "supplier_region": "CN"
+    }
+  ]
+}`;
+
+interface Product {
+    platform_id: string;
+    item_id: string;
+    title: string;
+    image_url: string;
+    price_range: string;
+    moq: number;
+    supplier_id: string;
+    supplier_name: string;
+    supplier_region: string;
+}
+
+interface ProductData {
+    results: Product[];
+    total_count?: number;
+}
 
 export default function GalleryDemoPage() {
-    const [urls, setUrls] = useState(sampleUrls);
+    const [jsonInput, setJsonInput] = useState(sampleJson);
     const [threshold, setThreshold] = useState(0.6);
+    const [products, setProducts] = useState<Product[]>([]);
     const [duplicateGroups, setDuplicateGroups] = useState<string[][]>([]);
     const [loading, setLoading] = useState(false);
+    const [error, setError] = useState('');
 
     const findDuplicates = async () => {
         setLoading(true);
+        setError('');
         try {
-            const urlArray = urls.split('\n').filter(url => url.trim());
+            const data: ProductData = JSON.parse(jsonInput);
+            setProducts(data.results);
+            const urls = data.results.map(product => product.image_url);
+            
             const response = await fetch(`${process.env.NEXT_PUBLIC_MASTRA_API_URL}/api/tools/find-image-duplicates/execute`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    data: { urls: urlArray, threshold }
+                    data: { urls, threshold }
                 })
             });
             const result = await response.json();
             setDuplicateGroups(result.duplicates || []);
-        } catch (error) {
-            console.error('Error finding duplicates:', error);
+        } catch (err) {
+            setError(err instanceof Error ? err.message : 'Invalid JSON or API error');
         }
         setLoading(false);
     };
 
-    const currentImages = urls.split('\n').filter(url => url.trim());
+    const getProductByImageUrl = (imageUrl: string) => {
+        return products.find(p => p.image_url === imageUrl);
+    };
 
     return (
         <div className="container mx-auto py-8 px-4">
@@ -56,13 +96,13 @@ export default function GalleryDemoPage() {
                 <div className="space-y-8">
                     <div className="bg-white p-6 rounded-lg shadow">
                         <div className="mb-4">
-                            <label className="block text-sm font-medium mb-2">Image URLs (one per line):</label>
+                            <label className="block text-sm font-medium mb-2">Product Data (JSON):</label>
                             <textarea 
-                                value={urls} 
-                                onChange={(e) => setUrls(e.target.value)}
-                                rows={8}
-                                className="w-full p-3 border rounded-lg"
-                                placeholder="Enter image URLs..."
+                                value={jsonInput} 
+                                onChange={(e) => setJsonInput(e.target.value)}
+                                rows={12}
+                                className="w-full p-3 border rounded-lg font-mono text-sm"
+                                placeholder="Enter product JSON data..."
                             />
                         </div>
                         <div className="mb-4">
@@ -77,6 +117,7 @@ export default function GalleryDemoPage() {
                                 className="w-32 p-2 border rounded"
                             />
                         </div>
+                        {error && <div className="mb-4 text-red-600 text-sm">{error}</div>}
                         <button 
                             onClick={findDuplicates}
                             disabled={loading}
@@ -86,18 +127,37 @@ export default function GalleryDemoPage() {
                         </button>
                     </div>
 
-                    <section>
-                        <h2 className="text-xl font-semibold mb-4">Current Images ({currentImages.length})</h2>
-                        <ImageGallery images={currentImages} />
-                    </section>
+                    {products.length > 0 && (
+                        <section>
+                            <h2 className="text-xl font-semibold mb-4">Products ({products.length})</h2>
+                            <ImageGallery images={products.map(p => p.image_url)} />
+                        </section>
+                    )}
 
                     {duplicateGroups.length > 0 && (
                         <div>
                             <h2 className="text-xl font-semibold mb-4">Duplicate Groups ({duplicateGroups.length})</h2>
                             {duplicateGroups.map((group, index) => (
-                                <div key={index} className="mb-6">
-                                    <h3 className="text-lg font-medium mb-2">Group {index + 1} ({group.length} images)</h3>
-                                    <ImageGallery images={group} />
+                                <div key={index} className="mb-8 bg-white p-6 rounded-lg shadow">
+                                    <h3 className="text-lg font-medium mb-4">Group {index + 1} ({group.length} products)</h3>
+                                    <div className="space-y-4">
+                                        {group.map((imageUrl, idx) => {
+                                            const product = getProductByImageUrl(imageUrl);
+                                            return (
+                                                <div key={idx} className="flex gap-4 p-4 border rounded">
+                                                    <img src={imageUrl} alt="Product" className="w-24 h-24 object-cover rounded" />
+                                                    {product && (
+                                                        <div className="flex-1">
+                                                            <h4 className="font-medium text-sm mb-2">{product.title}</h4>
+                                                            <p className="text-sm text-gray-600">Price: ¥{product.price_range}</p>
+                                                            <p className="text-sm text-gray-600">Supplier: {product.supplier_name}</p>
+                                                            <p className="text-sm text-gray-600">Item ID: {product.item_id}</p>
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            );
+                                        })}
+                                    </div>
                                 </div>
                             ))}
                         </div>
