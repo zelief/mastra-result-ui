@@ -26,11 +26,13 @@ export default function AgenticSearchPage() {
     }
   };
 
-  const relevantProducts = data?.searchResults.analyzedResults.filter(
+  const relevantProducts = (data?.searchResults.analyzedResults.filter(
     (result) => result.specAnalysis.overall_relevance_score >= 3
-  ) || [];
+  ) || []).sort((a, b) => b.specAnalysis.overall_relevance_score - a.specAnalysis.overall_relevance_score);
 
-  const allProducts = data?.searchResults.analyzedResults || [];
+  const allProducts = (data?.searchResults.analyzedResults || []).sort(
+    (a, b) => b.specAnalysis.overall_relevance_score - a.specAnalysis.overall_relevance_score
+  );
 
   return (
     <div className="container mx-auto px-4 py-8">
