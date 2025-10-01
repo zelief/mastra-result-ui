@@ -1,0 +1,4280 @@
+{
+  "searchResults": {
+    "analyzedResults": [
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "692788961482",
+          "title": "严选长柄榉木剑麻洗锅刷锅不粘油洗碗刷洗盘刷厨房灶台用具刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN017qWMe51U5vtHVrCpc_!!1009052467-0-cib.jpg",
+          "price_range": "8.30",
+          "moq": 1,
+          "supplier_id": "hbgan",
+          "supplier_name": "浙江何升工具股份有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not specify coconut fibre or stainless steel wire, which are required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 2,
+              "reasoning": "The size is not explicitly mentioned, making it difficult to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹白棕长柄锅刷",
+              "relevance_score": 3,
+              "reasoning": "The color description includes natural tones, but it does not specifically mention coconut fibre colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 2,
+              "reasoning": "There is no information provided about the grip design, making it unclear if it meets this specification."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications but lacks key materials and size information, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": "5090174646276"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "977995063382",
+          "title": "实木洗锅洗碗刷锅天然木刷剑麻家用厨房短柄椰棕清洁去污刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01GfaCEK1xKFPzfzVEa_!!2220779626424-0-cib.jpg",
+          "price_range": "4.52",
+          "moq": 0,
+          "supplier_id": "b2b-22207796264247317d",
+          "supplier_name": "义乌市创师贸易商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "椰棕混合毛, 木质",
+              "relevance_score": 3,
+              "reasoning": "The product contains coconut fibre (椰棕混合毛) and wood (木质), which partially meets the material requirement. However, it lacks stainless steel wire and FSC accreditation."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "短柄",
+              "relevance_score": 3,
+              "reasoning": "The product is described as a short handle (短柄) brush, which may not be the standard size but is a common size for dish brushes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "自然色",
+              "relevance_score": 3,
+              "reasoning": "The product is made from natural materials, which likely have natural colors, but specific color details are not provided."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design for user comfort in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.5,
+          "summary": "The product partially meets the required specifications with some relevant materials and size, but lacks key elements like stainless steel wire and enhanced grip design. Overall, it is a moderate match.",
+          "most_relevant_sku_id": "5934338716519"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "589169825287",
+          "title": "跨境现货厨房清洁刷剑麻楠竹子长柄可替换刷头洗碗碟刷锅刷",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/11513824595_541240879.jpg",
+          "price_range": "6.63",
+          "moq": 2,
+          "supplier_id": "b2b-40509711348f0ff",
+          "supplier_name": "义乌市竹前工艺品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "竹子",
+              "relevance_score": 2,
+              "reasoning": "The product is made of bamboo, which does not match the required materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "23cm",
+              "relevance_score": 5,
+              "reasoning": "The size of 23cm is a standard size for dish brushes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "原色Z-S-JM-DS;竹粗棕碟刷Z-S-HZ-DS",
+              "relevance_score": 4,
+              "reasoning": "The colors mentioned are natural, but they are for bamboo rather than coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3,
+          "summary": "The product has a good size match and natural colors, but it does not meet the material requirements or have an enhanced grip design, leading to a moderate overall relevance score.",
+          "most_relevant_sku_id": "5913576923902"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "736707397507",
+          "title": "天然剑麻锅刷可替换头软毛洗锅环保椰棕植物马毛清洁不沾锅刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01AgRo0q1kUF3XY8ENd_!!3834264686-0-cib.jpg",
+          "price_range": "2.65",
+          "moq": 2,
+          "supplier_id": "b2b-383426468639cfe",
+          "supplier_name": "江门市新会区亿和行清洁用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 椰棕毛, 马毛",
+              "relevance_score": 3,
+              "reasoning": "The product contains coconut fibre (椰棕毛) and wood (木质), which partially meets the material requirement. However, it lacks stainless steel wire and FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未明确说明",
+              "relevance_score": 2,
+              "reasoning": "The size is not explicitly mentioned in the product details, making it difficult to assess if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "未明确说明",
+              "relevance_score": 2,
+              "reasoning": "The colors are not specified as natural, and while coconut fibre is included, the overall color description does not confirm natural colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未明确说明",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the required specifications, particularly in materials, but lacks clarity on size, color, and grip design. Overall, it is a poor match for the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "618010186660",
+          "title": "厂家现货锅刷剑麻丝厨房刷不沾油木柄清洁刷棕榈清洗厨房工具",
+          "image_url": "https://cbu01.alicdn.com/O1CN01fhUgA31H6lUTUv9r1_!!2208025880709-0-cib.jpg",
+          "price_range": "4.80",
+          "moq": 0,
+          "supplier_id": "b2b-2208025880709ad89c",
+          "supplier_name": "义乌市鸥鹭工艺品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质 (wood)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but does not include coconut fibre or stainless steel wire, nor is it specified as FSC-accredited."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Dimensions vary by SKU, but generally fit standard sizes",
+              "relevance_score": 3,
+              "reasoning": "The dimensions of the SKUs suggest they are suitable for standard dish brush sizes, but specific measurements are not provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木椰棕;榉木剑麻;楠竹+剑麻;楠竹椰棕 (various wood colors)",
+              "relevance_score": 3,
+              "reasoning": "The colors listed are natural wood colors, but do not specifically include the natural colors of coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "No specific mention of enhanced grip design",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about an enhanced grip design."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in size and color, but lacks the required materials and grip design.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "754856024964",
+          "title": "天然剑麻锅刷可替换头软毛洗锅碟铁锅椰棕植物马毛清洁不沾锅刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01rt3stl2DscoYXgM5D_!!2209955838665-0-cib.jpg",
+          "price_range": "10.50",
+          "moq": 0,
+          "supplier_id": "b2b-2209955838665b42e3",
+          "supplier_name": "义乌市览星贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "剑麻",
+              "relevance_score": 2,
+              "reasoning": "The product is made from 剑麻 (sisal), which is a natural fiber, but it does not meet the target specification of coconut fibre or the other materials listed."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "马毛锅刷;剑麻锅刷",
+              "relevance_score": 2,
+              "reasoning": "The colors mentioned are natural fibers, but they do not specifically match the target colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, which is a key aspect of user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications effectively, with significant gaps in material, size, color, and design features.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "619578387693",
+          "title": "跨境厨房木质清洁刷榉木锅刷去污刷剑麻刷短柄长柄印章刷洗碗碟刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN018jJuec2Kl1jVwI3DL_!!1688029596-0-cib.jpg",
+          "price_range": "3.99",
+          "moq": 0,
+          "supplier_id": "b2b-1688029596",
+          "supplier_name": "烟台朴色家居有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质 (wood)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but does not include coconut fibre, coir, or stainless steel wire. Therefore, it does not fully meet the material requirement."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Dimensions vary from 15×9×11cm to 23×13×8cm",
+              "relevance_score": 3,
+              "reasoning": "The dimensions of the brushes suggest they are of a standard size for dish brushes, but specific standard size criteria are not provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Various wood colors (e.g., 榉木, 橡胶木)",
+              "relevance_score": 3,
+              "reasoning": "The product features natural wood colors, but does not specifically include the colors of coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "No mention of enhanced grip design",
+              "relevance_score": 1,
+              "reasoning": "There is no information indicating that the brushes have an enhanced grip design."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in size and color, but fails to meet the material and grip design requirements.",
+          "most_relevant_sku_id": "5240263460385"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "968368156662",
+          "title": "日本厨房长柄马毛锅刷家用可替换头不粘锅不伤锅多功能清洁锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01iGTONp1JXub5WhiVf_!!2217739381039-0-cib.jpg",
+          "price_range": "14.00",
+          "moq": 1,
+          "supplier_id": "b2b-2217739381039541b3",
+          "supplier_name": "义乌市洲恒贸易商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 马毛刷头",
+              "relevance_score": 2,
+              "reasoning": "The product features a wooden handle and a horsehair brush head, which does not match the required materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "21×4.5×4cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions suggest a standard size for a dish brush, although specific standard size metrics are not provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "黄色手柄+黑色刷毛",
+              "relevance_score": 2,
+              "reasoning": "The colors do not match the natural colors of coconut fibre and timber, as it features yellow and black."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the specifications with a good size match but fails to meet material, color, and design requirements.",
+          "most_relevant_sku_id": "6079864450519"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "957842452726",
+          "title": "刷锅神器厨房专用洗碗盘洗锅长柄锅刷多功能清洁刷家用长柄小刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN010prm2A1GUl0vzAobp_!!2219813560626-0-cib.jpg",
+          "price_range": "17.50",
+          "moq": 0,
+          "supplier_id": "b2b-221981356062640b5e",
+          "supplier_name": "抚州市临川区潮九玩五家居店",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "剑麻 (coconut fibre) + 榉木 (beech wood)",
+              "relevance_score": 4,
+              "reasoning": "The product contains 剑麻 (coconut fibre) for the brush head and 榉木 (beech wood) for the handle, which is a good match for the target specification, although it does not include stainless steel wire or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Dimensions vary by SKU, generally suitable for dish cleaning",
+              "relevance_score": 3,
+              "reasoning": "The dimensions of the SKUs suggest they are suitable for dish cleaning, but the exact standard size is not specified."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Natural colors of 剑麻 and 榉木",
+              "relevance_score": 5,
+              "reasoning": "The materials used (coconut fibre and beech wood) are in natural colors, perfectly matching the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "No specific mention of enhanced grip design",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about an enhanced grip design, which does not meet the target specification."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3.25,
+          "summary": "The product shows a good match with the required specifications, particularly in material and color, but lacks in size specification and grip design. Overall, it meets several key aspects of the target requirements.",
+          "most_relevant_sku_id": "6049850011343"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "783099907821",
+          "title": "竹子剑麻锅刷家用长柄刷锅洗碗洗锅专用竹柄刷子厨房清洁除垢油污",
+          "image_url": "https://cbu01.alicdn.com/O1CN01eAoNsb2Kl1azn8Wf9_!!1688029596-0-cib.jpg",
+          "price_range": "6.99",
+          "moq": 2,
+          "supplier_id": "b2b-1688029596",
+          "supplier_name": "烟台朴色家居有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the specific materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "24×5×5cm",
+              "relevance_score": 3,
+              "reasoning": "The size is reasonable for a dish brush, but it is not explicitly stated as 'standard'."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹木长柄剑麻刷",
+              "relevance_score": 3,
+              "reasoning": "The color description includes bamboo and wood, which are natural, but does not specify coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the specifications with a reasonable size and natural colors, but fails to meet the material and grip design requirements.",
+          "most_relevant_sku_id": "5516845602695"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "683847079423",
+          "title": "家用厨房清洁锅刷 洗碗洗锅去污榉木剑麻锅刷 精致短柄锅刷批发",
+          "image_url": "https://cbu01.alicdn.com/O1CN01MmP1Ag2EpFYzWmr62_!!2293488793-0-cib.jpg",
+          "price_range": "4.99",
+          "moq": 0,
+          "supplier_id": "b2b-2293488793",
+          "supplier_name": "义乌市雅胜日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "榉木+剑麻",
+              "relevance_score": 3,
+              "reasoning": "The product is made of beech wood (榉木) and jute (剑麻), which does not include coconut fibre or stainless steel wire. However, beech wood can be considered a type of timber, leading to a partial match."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "24x5.8cm, 17×12×7cm, 37×13×7cm, etc.",
+              "relevance_score": 4,
+              "reasoning": "The product dimensions are within a reasonable range for standard dish brushes, indicating a good match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木+剑麻",
+              "relevance_score": 3,
+              "reasoning": "The materials used (beech wood and jute) are natural, but the specific colors are not detailed, leading to a partial match."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details, resulting in no match."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.75,
+          "summary": "The product partially meets the required specifications, particularly in size and material, but lacks a specific enhanced grip design and does not include coconut fibre or stainless steel wire. Overall, it is a moderate match with some relevant features.",
+          "most_relevant_sku_id": "4941556121322"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "961079892325",
+          "title": "竹子剑麻锅刷家用长柄刷锅洗碗洗锅专用竹柄刷子厨房清洁除垢油污",
+          "image_url": "https://cbu01.alicdn.com/O1CN0192KQTh1rUQVuV4a8Y_!!2220274995634-0-cib.jpg",
+          "price_range": "9.09",
+          "moq": 2,
+          "supplier_id": "b2b-2220274995634c261a",
+          "supplier_name": "广州如月塑料五金制品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, which does not match the target materials of coconut fibre or stainless steel wire. However, it could potentially be FSC-accredited timber, but this is not specified."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "24×5×5cm",
+              "relevance_score": 3,
+              "reasoning": "The dimensions provided (24×5×5cm) suggest a size that could be considered standard for a dish brush, but without explicit confirmation of what constitutes 'standard', this is a partial match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹木长柄剑麻刷",
+              "relevance_score": 3,
+              "reasoning": "The color description includes bamboo and wood, which aligns with the natural colors of timber, but does not include coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details, indicating a lack of this feature."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some of the required specifications, particularly in size and color, but does not fulfill the material and grip design requirements. Overall, it is a poor match for the target specifications.",
+          "most_relevant_sku_id": "6057347423348"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "576845597597",
+          "title": "剑麻榉木竹木长柄锅刷 厨房神器  厨房洗碗洗锅清洁刷",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/9607488700_1490597550.jpg",
+          "price_range": "7.00",
+          "moq": 0,
+          "supplier_id": "b2b-3864497562b7b86",
+          "supplier_name": "宁波法莱卡贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质 (wood)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the target materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "23cm",
+              "relevance_score": 3,
+              "reasoning": "The size of 23cm is a common size for dish brushes, but it is not explicitly stated as 'standard'."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "原色 (natural color)",
+              "relevance_score": 5,
+              "reasoning": "The product is described as having a natural color, which aligns with the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无 (none)",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in color and size, but fails to meet the material and grip design requirements.",
+          "most_relevant_sku_id": "5153973598922"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "952027075697",
+          "title": "实木洗锅刷可替换可悬挂长柄锅刷马毛椰棕毛剑麻毛清洁刷厂家批发",
+          "image_url": "https://cbu01.alicdn.com/O1CN01fjKa9o2C5KjwMNtPN_!!966718422-0-cib.jpg",
+          "price_range": "3.80",
+          "moq": 0,
+          "supplier_id": "yanlinhua",
+          "supplier_name": "扬州颖特休闲日用制品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "实木/马毛/剑麻/椰棕",
+              "relevance_score": 4,
+              "reasoning": "The product contains coconut fibre (椰棕毛) and wood (实木), which aligns well with the target material specifications. However, it lacks stainless steel wire and FSC accreditation."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "N/A",
+              "relevance_score": 2,
+              "reasoning": "The product does not specify the size, making it difficult to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "N/A",
+              "relevance_score": 2,
+              "reasoning": "The product does not explicitly mention the colors, which makes it unclear if they align with the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.25,
+          "summary": "The product partially meets the required specifications, particularly in materials, but lacks clarity on size, color, and grip design. Overall, it shows potential but does not fully align with the target specifications.",
+          "most_relevant_sku_id": "6038064486078"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "713658804333",
+          "title": "天然剑麻厨房洗锅刷不沾油家用碗蝶刷送礼盒装椰棕洗果蔬清洁刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01hQX9pc1XF2eL5pbrg_!!2215676352893-0-cib.jpg",
+          "price_range": "4.10",
+          "moq": 0,
+          "supplier_id": "b2b-2215676352893d25eb",
+          "supplier_name": "义乌市赞魔乐电子商务有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 剑麻",
+              "relevance_score": 3,
+              "reasoning": "The product is made from wood and jute (剑麻), which is a natural fiber, but it does not include coconut fibre or stainless steel wire. The wood is not specified as FSC-accredited."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "10×6×8cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions of the brush (10×6×8cm) are typical for a dish brush, indicating a good match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "楠竹白剑麻锅刷;楠竹花剑麻锅刷",
+              "relevance_score": 4,
+              "reasoning": "The colors mentioned are natural shades of bamboo and jute, which align well with the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3,
+          "summary": "The product partially meets the target specifications, particularly in size and color, but lacks the required materials and grip design.",
+          "most_relevant_sku_id": "5166972874252"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "572193048147",
+          "title": "剑麻榉木锅刷 长柄锅刷子厨房用刷 清洁洗碗洗锅刷现货库存",
+          "image_url": "https://cbu01.alicdn.com/O1CN01L5fgve2D2PPz6q2f7_!!2923828551-0-cib.jpg",
+          "price_range": "7.50",
+          "moq": 3,
+          "supplier_id": "b2b-2923828551af3a0",
+          "supplier_name": "宁波市鄞州阳硕贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the target materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "长柄锅刷子",
+              "relevance_score": 3,
+              "reasoning": "The product is a long-handled dish brush, which suggests it is of a standard size, but the exact dimensions are not specified."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木剑麻;榉木竹混",
+              "relevance_score": 4,
+              "reasoning": "The colors mentioned are natural wood colors, which align well with the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in color and size, but does not fulfill the material and grip design requirements.",
+          "most_relevant_sku_id": "5484845438963"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "968601022751",
+          "title": "现货榉木剑麻锅碗碟刷厨房清洁刷长柄可替换头锅刷楠竹棕榈洗碗刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01WPNKFD1jGfhR4a36g_!!2220555604521-0-cib.jpg",
+          "price_range": "4.20",
+          "moq": 0,
+          "supplier_id": "b2b-2220555604521db8f4",
+          "supplier_name": "义乌市竹前日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "竹木 (bamboo wood)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of bamboo wood, which does not match the target materials of coconut fibre or stainless steel wire. However, bamboo is a natural material, which gives it some relevance."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "23×6×4cm",
+              "relevance_score": 4,
+              "reasoning": "The size of the brush (23×6×4cm) is a standard size for dish brushes, making it a very good match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹子剑麻碟刷 (bamboo and jute)",
+              "relevance_score": 3,
+              "reasoning": "The product features natural materials like bamboo and jute, which aligns with the target specification for natural colors, but does not specifically mention coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details, indicating a lack of match."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.5,
+          "summary": "The product partially meets the target specifications, particularly in size and color, but does not match the required materials or grip design.",
+          "most_relevant_sku_id": "5917407573558"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "925237461486",
+          "title": "剑麻刷锅刷子神器不沾油带把洗碗洗锅刷厨房用刷长柄清洁家用",
+          "image_url": "https://cbu01.alicdn.com/O1CN01KyWxfb1lfymtDs1HD_!!2219392434847-0-cib.jpg",
+          "price_range": "4.50",
+          "moq": 1,
+          "supplier_id": "b2b-221939243484770dd0",
+          "supplier_name": "福建尤溪县嘉竹工艺品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the specific materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "32×32×23cm",
+              "relevance_score": 3,
+              "reasoning": "The dimensions suggest a larger size than typical dish brushes, but it may still be usable."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹子",
+              "relevance_score": 3,
+              "reasoning": "The color '竹子' (bamboo) is a natural color, but it does not match the specific target colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications, particularly in size and color, but fails to meet the material and grip design requirements.",
+          "most_relevant_sku_id": "5971967095064"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "613842799983",
+          "title": "热销实木楠竹长柄可替换头剑麻锅刷厨房清洁洗碗碟刷子可激光LOGO",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/13667173016_32369596.jpg",
+          "price_range": "6.90",
+          "moq": 5,
+          "supplier_id": "b2b-220661241964233c2a",
+          "supplier_name": "台州市宜简电子商务有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "榉木，剑文档",
+              "relevance_score": 2,
+              "reasoning": "The product is made of beech wood and a type of fiber, but it does not include coconut fiber or stainless steel wire, which are specified in the target."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "The size of the brush is not specified in the product details, making it impossible to determine if it meets the standard size requirement."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木长柄锅刷",
+              "relevance_score": 3,
+              "reasoning": "The product features a natural wood color, which partially meets the color specification, but does not include coconut fiber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1.75,
+          "summary": "The product partially meets some specifications, particularly in color, but fails to meet key material and size requirements, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": "4376661409489"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "692782824886",
+          "title": "定制长柄不沾油洗锅刷剑麻洗碗刷家用厨房果蔬清洁多功能去污刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN012fLGZE1U5vt6K3xRj_!!1009052467-0-cib.jpg",
+          "price_range": "16.50",
+          "moq": 0,
+          "supplier_id": "hbgan",
+          "supplier_name": "浙江何升工具股份有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not include coconut fibre or stainless steel wire, which are specified in the target."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "清漆白棕竹柄碟刷, 榉木白棕碟刷",
+              "relevance_score": 3,
+              "reasoning": "The colors mentioned are natural wood colors, but they do not specifically match the natural colors of coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, so it cannot be assessed."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications adequately, with only partial matches in material and color. Size and grip design are not specified, leading to a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "829192641505",
+          "title": "杯刷清洁长柄刷子水杯缝隙刷清洗保温杯刷奶瓶刷杯子细口瓶刷杯刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN012D1ufI1d3wu3UnXk7_!!2214290683681-0-cib.jpg",
+          "price_range": "0.98",
+          "moq": 1,
+          "supplier_id": "b2b-22142906836814c5e9",
+          "supplier_name": "安徽斯克达刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "40×3×3cm",
+              "relevance_score": 3,
+              "reasoning": "The size is relatively small and may not be considered standard for dish brushes, but it could be suitable for specific uses."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "白色",
+              "relevance_score": 2,
+              "reasoning": "The color is white, which does not match the natural colors specified."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only a partial match on size. Overall, it is not suitable for the target specifications.",
+          "most_relevant_sku_id": "5728027518542"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "861952196610",
+          "title": "杯刷去茶渍长柄洗杯子奶瓶无死角清洗神器玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01xZ80yH1GOno5VOJNh_!!2218068000613-0-cib.jpg",
+          "price_range": "2.00",
+          "moq": 1,
+          "supplier_id": "b2b-221806800061333b0a",
+          "supplier_name": "义乌市典冠家居用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "无规格",
+              "relevance_score": 2,
+              "reasoning": "The product does not specify a size, which makes it difficult to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "短款-北欧绿;短款-北欧粉;短款-北欧米;长款北欧绿;长款北欧粉;长款北欧米",
+              "relevance_score": 2,
+              "reasoning": "The colors are not natural colors of coconut fibre or timber; they are synthetic colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, indicating it likely does not have an enhanced grip."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, with significant discrepancies in material, size, color, and grip design.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "978138086117",
+          "title": "长柄洗杯子奶瓶杯刷去茶渍无死角清洗玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01ibeS4w1yLS1fMesUQ_!!2219407346562-0-cib.jpg",
+          "price_range": "5.60",
+          "moq": 0,
+          "supplier_id": "b2b-2220630522356849f6",
+          "supplier_name": "镇江经济技术开发区欧之蓝百货商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "耐热玻璃",
+              "relevance_score": 1,
+              "reasoning": "The product is made of heat-resistant glass, which does not match the required materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the size of the brush, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "短款北欧绿, 短款北欧粉, 短款北欧米, 长款北欧绿, 长款北欧粉, 长款北欧米",
+              "relevance_score": 1,
+              "reasoning": "The colors listed are not natural colors of coconut fibre or timber; they are synthetic colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "819786210487",
+          "title": "加长细口杯刷多功能洗杯刷杯子刷子弯曲瓶口奶瓶酒瓶子毛刷清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01pQDP0r24WnT0OCC4O_!!2208550167399-0-cib.jpg",
+          "price_range": "1.90",
+          "moq": 0,
+          "supplier_id": "b2b-2208550167399dd0d3",
+          "supplier_name": "义乌市浠然电子商务商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "复合纤维",
+              "relevance_score": 2,
+              "reasoning": "The product is made of composite fiber, which does not match the target materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "长38cm细管刷;长32cm海绵头杯刷;长40cm杯刷;加长50cm杯刷",
+              "relevance_score": 3,
+              "reasoning": "The product includes various sizes of brushes, but they are longer than typical standard dish brush sizes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "颜色随机",
+              "relevance_score": 2,
+              "reasoning": "The colors are random and do not specifically match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications, particularly in size, but does not align well with the required materials, colors, or grip design.",
+          "most_relevant_sku_id": "5526728133467"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "675016056511",
+          "title": "纯净水桶专用刷子神器长柄矿泉水饮水机桶刷花瓶清洗刷清洁水桶刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01jfHFw52MRRhuC3anv_!!2068609824-0-cib.jpg",
+          "price_range": "2.48",
+          "moq": 0,
+          "supplier_id": "b2b-2068609824",
+          "supplier_name": "义乌市祥捷贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "不锈钢+塑料",
+              "relevance_score": 2,
+              "reasoning": "The product is made of stainless steel and plastic, which does not meet the requirement for coconut fibre or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "新款扁头加长桶刷1个",
+              "relevance_score": 3,
+              "reasoning": "The product is a long handle bucket brush, which may be considered a standard size for dish brushes, but the exact dimensions are not specified."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "见实物",
+              "relevance_score": 2,
+              "reasoning": "The color is described as 'see actual product', which does not guarantee natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications, particularly in size, but fails to meet the material and design requirements. Overall, it does not align well with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "920494220289",
+          "title": "杯刷去茶渍长柄洗杯子奶瓶无死角清洗神器玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01HFSjF31J7nzPnfUp7_!!2217611510982-0-cib.jpg",
+          "price_range": "5.55",
+          "moq": 0,
+          "supplier_id": "b2b-221761151098239dc2",
+          "supplier_name": "义乌市香初家居用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Not specified",
+              "relevance_score": 2,
+              "reasoning": "The size is not explicitly mentioned, but it is implied to be a cleaning brush, which may suggest a standard size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "短款-北欧绿;短款-北欧粉;短款-北欧米;长款北欧绿;长款北欧粉;长款北欧米;优质升级-短款单个【蓝灰随机色】;优质升级-长款单个【蓝灰随机色】;长款北欧粉;北欧粉【长款+短款】",
+              "relevance_score": 1,
+              "reasoning": "The colors are not natural and do not match the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, with a score of 1 across all categories. It is primarily made of plastic and lacks the necessary materials, colors, and design features.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "832810639596",
+          "title": "杯子刷清洁长柄水杯刷子破壁机专用水杯清洗杯子刷奶瓶涮子洗杯刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01cY7k4W1d3wu6MYPye_!!2214290683681-0-cib.jpg",
+          "price_range": "0.68",
+          "moq": 0,
+          "supplier_id": "b2b-22142906836814c5e9",
+          "supplier_name": "安徽斯克达刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "Plastic",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Various sizes (25cm, 30cm, 35cm, 42cm)",
+              "relevance_score": 3,
+              "reasoning": "The product comes in various sizes, but it is unclear if they fit the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Various colors (blue, white)",
+              "relevance_score": 2,
+              "reasoning": "The colors available are not natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only partial matches in size and color. Overall, it is not suitable for the target requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "785077325164",
+          "title": "日式辅食机刀片清洗刷绞肉机清理刷破壁机榨汁机豆浆机缝隙清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01yFU2F61qyMeu92Iau_!!995255564-0-cib.jpg",
+          "price_range": "4.00",
+          "moq": 0,
+          "supplier_id": "imemu",
+          "supplier_name": "广州米木贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "未提供具体颜色",
+              "relevance_score": 1,
+              "reasoning": "The product does not mention any natural colors associated with coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design or user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "712818795508",
+          "title": "亚马逊热销长柄洗杯刷奶瓶刷长柄保温杯清洗玻璃茶杯刷瓶刷子套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN014IWjlE24RlCPsinmu_!!2215680487388-0-cib.jpg",
+          "price_range": "8.00",
+          "moq": 1,
+          "supplier_id": "b2b-2215680487388c62c3",
+          "supplier_name": "深圳市鸿兴刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "45×16×5cm",
+              "relevance_score": 3,
+              "reasoning": "The size is reasonable for a dish brush, but it is not explicitly stated as 'standard'."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "多种颜色可选",
+              "relevance_score": 2,
+              "reasoning": "The product comes in various colors, but none match the natural colors specified."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提及",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1.75,
+          "summary": "The product does not meet the required specifications, particularly in material and design. It has a reasonable size but lacks the natural colors and grip design specified.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "39831030721",
+          "title": "120AAH 日本可自立壶嘴刷 手柄带吸盘管刷(1支装)5-20mm管径适用",
+          "image_url": "https://cbu01.alicdn.com/O1CN01vPIbFd20enbUu9Vug_!!2059436875-0-cib.jpg",
+          "price_range": "4.00",
+          "moq": 0,
+          "supplier_id": "b2b-2059436875",
+          "supplier_name": "广州米木贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "5-20mm管径适用",
+              "relevance_score": 3,
+              "reasoning": "The product is suitable for pipe diameters of 5-20mm, which may correspond to a standard size for specific applications, but it is not explicitly stated as a dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "KM.1190小号;KM.2062大号",
+              "relevance_score": 1,
+              "reasoning": "The colors mentioned are specific product codes and do not indicate natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about an enhanced grip design for user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with a score of 1 due to the material and color discrepancies, and lack of information on grip design. The size is a partial match but does not align with standard dish brush sizes.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "937030697884",
+          "title": "杯刷去茶渍长柄洗杯子奶瓶无死角清洗玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01XM3srS1nysJ2LWPK7_!!2217753265159-0-cib.jpg",
+          "price_range": "5.43",
+          "moq": 0,
+          "supplier_id": "b2b-2219938892323191b4",
+          "supplier_name": "成都芯率元科技有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the size of the brush, making it impossible to assess its relevance."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "短款-北欧绿, 短款-北欧米, 短款-北欧粉, 长款北欧米, 长款北欧绿, 长款北欧粉",
+              "relevance_score": 2,
+              "reasoning": "The colors are not natural colors of coconut fibre or timber; they are synthetic colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, with a score of 1 across all categories. It is made of plastic, lacks size information, and does not have natural colors or an enhanced grip design.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "822203485785",
+          "title": "杯刷去茶渍长柄洗杯子奶瓶无死角清洗神器玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01pzFpuS1VVs72ufjiA_!!2217946392659-0-cib.jpg",
+          "price_range": "0.72",
+          "moq": 0,
+          "supplier_id": "b2b-2217946392659e2577",
+          "supplier_name": "义乌德福供应链有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "pp+尼龙+铁丝",
+              "relevance_score": 2,
+              "reasoning": "The product contains iron wire, but the primary materials are PP and nylon, which do not match the target specification of coconut fibre or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "长柄洗杯子",
+              "relevance_score": 3,
+              "reasoning": "The product is described as a long-handled cup brush, which suggests it is designed for cleaning cups, but the exact size is not specified."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "颜色随机",
+              "relevance_score": 2,
+              "reasoning": "The product offers random colors, which do not align with the natural colors specified in the target."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications, particularly in size, but fails to match the required materials and other specifications. Overall, it is a poor match for the target requirements.",
+          "most_relevant_sku_id": "5700495518905"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "938679688202",
+          "title": "亚马逊热销长柄洗杯刷奶瓶刷保温杯清洗海绵刷玻璃茶杯刷唰子套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01tbw19S24RkxsWUdcT_!!2215680487388-0-cib.jpg",
+          "price_range": "11.80",
+          "moq": 0,
+          "supplier_id": "b2b-2215680487388c62c3",
+          "supplier_name": "深圳市鸿兴刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "42×16×5cm",
+              "relevance_score": 3,
+              "reasoning": "The size is provided, but it is unclear if it matches the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "多种颜色可选（白色、蓝色、绿色、粉色等）",
+              "relevance_score": 2,
+              "reasoning": "The colors available are not natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提及",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design for user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only a partial match on size. The materials, colors, and additional specifications do not align with the target requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "891864009144",
+          "title": "亚马逊长柄酵素瓶刷厨房可弯曲红酒瓶醒酒器清洁刷家用去污洗瓶刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01HnBppZ1f6MGeBXFl0_!!2219386283957-0-cib.jpg",
+          "price_range": "1.00",
+          "moq": 1,
+          "supplier_id": "b2b-22193862839571f7f9",
+          "supplier_name": "深圳煜晨刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "40×5×5cm",
+              "relevance_score": 3,
+              "reasoning": "The dimensions suggest a brush size that could be considered standard, but without specific context on what 'standard' means, this is a partial match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "绿色;蓝色",
+              "relevance_score": 2,
+              "reasoning": "The colors are not natural colors of coconut fibre or timber, but rather synthetic colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only a partial match on size. Overall, it is not suitable for the target requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "636766535791",
+          "title": "加长洗瓶刷杯刷酵素瓶清洁厨房瓶刷子可弯曲家用去污酒瓶绞毛刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01VynKlm24Wn92IfVqS_!!2208550167399-0-cib.jpg",
+          "price_range": "1.90",
+          "moq": 1,
+          "supplier_id": "b2b-2208550167399dd0d3",
+          "supplier_name": "义乌市浠然电子商务商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "随机色",
+              "relevance_score": 1,
+              "reasoning": "The color is listed as random, which does not align with the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, so it cannot be assessed."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "930373420714",
+          "title": "新款试管清洁海绵刷长手柄玻璃清洗杯刷简易奶瓶刷子清洁刷5件套",
+          "image_url": "https://cbu01.alicdn.com/O1CN01EYGRYR2MHpQVuFsKq_!!2211783719803-0-cib.jpg",
+          "price_range": "1.80",
+          "moq": 1,
+          "supplier_id": "b2b-2211783719803be901",
+          "supplier_name": "永康市悦盛工贸有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "不锈钢",
+              "relevance_score": 2,
+              "reasoning": "The product is made of stainless steel, which is a part of the target specification, but it does not include coconut fibre or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "单只43.5*21.5*6;单只35*15.5*5;单只37*15*1.5;单只25*9.5*2.5;单只17.5*7*4",
+              "relevance_score": 3,
+              "reasoning": "The product includes various sizes, but it is unclear if they match the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "蓝色五件套",
+              "relevance_score": 1,
+              "reasoning": "The product is available in blue, which does not match the natural colors specified."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product has limited relevance to the target specifications, primarily due to the absence of key materials and features. The only partial match is the stainless steel material, but it does not fulfill the other requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "944650438274",
+          "title": "杯刷去茶渍长柄洗杯子奶瓶无死角清洗玻璃杯水壶茶杯清洁套装",
+          "image_url": "https://cbu01.alicdn.com/O1CN01UjVQSJ1Twm8Yo6Iq0_!!2201484602447.jpg",
+          "price_range": "14.30",
+          "moq": 0,
+          "supplier_id": "b2b-2220108547567a46fa",
+          "supplier_name": "成都方力贞劳务有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "百分36以上骨粉骨瓷",
+              "relevance_score": 1,
+              "reasoning": "The product is made of bone china, which does not match the required materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "其他",
+              "relevance_score": 1,
+              "reasoning": "The size specification is not provided, and '其他' does not indicate a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "短款-北欧绿✦♢;短款-北欧粉✦♢;短款-北欧米✦♢;长款北欧绿✦♢;长款北欧粉✦♢;长款北欧米✦♢;北欧绿【长款+短款】✦♢;北欧粉【长款+短款】✦♢;北欧米【长款+短款】✦♢;升级-短款单个【蓝灰随机色】✦♢;升级-长款单个【蓝灰随机色】✦♢;升级-组合款：短款+长款【蓝灰随机色】✦♢",
+              "relevance_score": 1,
+              "reasoning": "The colors listed are not natural colors of coconut fibre or timber; they are synthetic or artificial colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "其他",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "965136100898",
+          "title": "八件套清洁刷厨房杯子清洁刷套装奶瓶刷洗杯刷吸管刷家用清洁工具",
+          "image_url": "https://cbu01.alicdn.com/O1CN014IWjlE24RlCPsinmu_!!2215680487388-0-cib.jpg",
+          "price_range": "11.00",
+          "moq": 0,
+          "supplier_id": "b2b-2215680487388c62c3",
+          "supplier_name": "深圳市鸿兴刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "Plastic",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "The size is not specified in the product details, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Various colors including green, white, blue, pink, black",
+              "relevance_score": 1,
+              "reasoning": "The colors listed are not natural colors of coconut fibre or timber, thus not meeting the requirement."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, as it is made of plastic, lacks size information, does not have natural colors, and does not specify any grip design.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "923076628455",
+          "title": "UG73可弯曲加长瓶刷杯刷酵素瓶厨房清洁洗瓶刷子家用去污茶壶酒瓶",
+          "image_url": "https://cbu01.alicdn.com/O1CN01LA6pbO2CVR4xw4jZu_!!2213698368479-0-cib.jpg",
+          "price_range": "9.74",
+          "moq": 0,
+          "supplier_id": "b2b-2219820100315a3b7c",
+          "supplier_name": "上海也予科技有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "其他",
+              "relevance_score": 1,
+              "reasoning": "The product material is listed as '其他' (other), which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "40cm长柄瓶刷一个（颜色随机）",
+              "relevance_score": 3,
+              "reasoning": "The product includes a 40cm long handle brush, which is a reasonable size for a dish brush, but it is not explicitly stated as 'standard'."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "颜色随机",
+              "relevance_score": 2,
+              "reasoning": "The color is listed as random, which does not guarantee natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "其他",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications well, with only a partial match on size. The material, color, and grip design do not align with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "669790261318",
+          "title": "十月结晶奶瓶刷子套装奶瓶奶嘴清洁工具360度旋转清洁海绵刷4件套",
+          "image_url": "https://cbu01.alicdn.com/O1CN01ynrmPN278TFBPbEMO_!!942437752-0-cib.jpg",
+          "price_range": "25.90",
+          "moq": 0,
+          "supplier_id": "shiyuermy",
+          "supplier_name": "浙江施俞儿实业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "尼龙.海绵刷, 硅胶.海绵刷",
+              "relevance_score": 1,
+              "reasoning": "The product materials do not match the target specifications as they consist of nylon and silicone, which are not coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "7.5×7.3×17.1cm, 9×6.5×18.5cm",
+              "relevance_score": 2,
+              "reasoning": "The sizes provided are not specified as standard dish brush sizes, and without a clear definition of 'standard', this is a poor match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "青葱绿, 樱花粉, 玛雅灰, 玛格粉",
+              "relevance_score": 1,
+              "reasoning": "The colors listed are synthetic and do not represent natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "981353152662",
+          "title": "锅刷家用厨房洗碗刷锅洗锅不沾油长柄锅刷清洁刷除垢油污刷子乾屏",
+          "image_url": "https://cbu01.alicdn.com/O1CN01qeWOv61bCzb9EWMUe_!!2220797883430-0-cib.jpg",
+          "price_range": "0.49",
+          "moq": 0,
+          "supplier_id": "b2b-22207978834305351c",
+          "supplier_name": "温州市乾屏贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料, 木头手柄",
+              "relevance_score": 2,
+              "reasoning": "The product mentions plastic and wooden handle, but does not include coconut fibre or stainless steel wire, which are essential for a higher score."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "The size is not specified in the product details, making it impossible to assess against the target."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "塑料手柄锅刷;木头手柄锅刷",
+              "relevance_score": 3,
+              "reasoning": "The product includes wooden handle options, which may align with natural colors, but plastic does not meet the target."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, making it impossible to assess."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product has limited relevance to the target specifications, primarily due to the absence of key materials and lack of size and grip design information.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "980657704032",
+          "title": "木头手柄不沾油洗锅刷家用厨房宿舍手柄可挂式洗碗洗锅清洁刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01n24yua1FXfwA9Bc1V_!!2220746690497-0-cib.jpg",
+          "price_range": "2.18",
+          "moq": 0,
+          "supplier_id": "b2b-222074669049723136",
+          "supplier_name": "北京正磨电力科技有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "其它",
+              "relevance_score": 1,
+              "reasoning": "The product material is listed as '其它' (other), which does not specify any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "无规格",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify a size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "大号-1个装;小号-1个装;大号-2个装;小号-2个装;大号+小号-2个装;大号-3个装;小号-3个装;大号-4个装;小号-4个装;大号-1个装+挂钩;小号-1个装+挂钩;大号-2个装+挂钩;小号-2个装+挂钩;大号-3个装+挂钩;小号-3个装+挂钩;大号-4个装+挂钩;小号-4个装挂钩",
+              "relevance_score": 1,
+              "reasoning": "The colors listed do not indicate any natural colors of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "其它",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "969974023721",
+          "title": "日式榉木锅刷厨房刷锅洗碗神器洗锅不沾油刷碗除垢油污长柄清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01TpWna11QC73gLqwKT_!!2220392491939-0-cib.jpg",
+          "price_range": "3.92",
+          "moq": 0,
+          "supplier_id": "b2b-22203924919399ab31",
+          "supplier_name": "新沂市纳涵芮百货店",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "榉木+剑麻+塑胶",
+              "relevance_score": 3,
+              "reasoning": "The product contains 剑麻 (sisal), which is similar to coconut fibre, and 榉木 (beech wood), which is a type of timber, but it does not include coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "椭圆形刷头【一把装】榉木柄",
+              "relevance_score": 3,
+              "reasoning": "The product is described as a dish brush, which typically implies a standard size, but no specific dimensions are provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "椭圆形刷头【一把装】榉木柄",
+              "relevance_score": 3,
+              "reasoning": "The product features a wooden handle, which may have natural colors, but the specific color details are not provided."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.5,
+          "summary": "The product partially meets the required specifications with some relevant materials and a general description of size and color, but lacks specific details and does not meet the grip design requirement.",
+          "most_relevant_sku_id": "5921328641884"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "979501686287",
+          "title": "锅刷家用厨房洗碗洗锅不沾油刷子榉木手柄洗锅刷子清洁刷除垢油污",
+          "image_url": "https://cbu01.alicdn.com/O1CN01jgfad01GR5rSYOR59_!!2219412060618-0-cib.jpg",
+          "price_range": "4.87",
+          "moq": 0,
+          "supplier_id": "b2b-221941206061861c14",
+          "supplier_name": "义乌市杭信贸易有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the specific materials of coconut fibre or stainless steel wire. Therefore, it is a poor match."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木",
+              "relevance_score": 3,
+              "reasoning": "The product is made of beech wood, which is a natural color, but it does not include coconut fibre colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, so it cannot be assessed."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications adequately, with only partial matches in material and color. Size and grip design are not specified, leading to a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "965541714949",
+          "title": "天然剑麻锅刷家用长柄洗碗洗锅木柄刷子厨房多功能清洁刷清洁神器",
+          "image_url": "https://cbu01.alicdn.com/O1CN011v1LJD20TM7lU6kzX_!!2216858956850-0-cib.jpg",
+          "price_range": "5.57",
+          "moq": 1,
+          "supplier_id": "b2b-221864942454127e8e",
+          "supplier_name": "1688企业采购自营商城",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木柄锅刷",
+              "relevance_score": 2,
+              "reasoning": "The product mentions a wooden handle but does not specify coconut fibre or stainless steel wire, leading to a significant difference."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "木柄锅刷",
+              "relevance_score": 3,
+              "reasoning": "The product is a dish brush, which suggests it is of standard size, but no specific dimensions are provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "木柄锅刷",
+              "relevance_score": 3,
+              "reasoning": "The product likely has natural colors due to the wooden handle, but it does not specify the color of the brush head."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "木柄锅刷",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design, indicating no match."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some specifications, particularly in size and color, but lacks key materials and features, resulting in a low overall relevance score.",
+          "most_relevant_sku_id": "6075207158171"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "978913803633",
+          "title": "木柄洗锅刷多功能长柄清洗碗刷带柄家用不沾油洗锅木刷子厂家批发",
+          "image_url": "https://cbu01.alicdn.com/O1CN01aacGUS1lawSy1hJzJ_!!2220776654836-0-cib.jpg",
+          "price_range": "9.90",
+          "moq": 0,
+          "supplier_id": "b2b-2220776654836b7a18",
+          "supplier_name": "温州瓯海梧田席霖日用品商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料, 榉木柄",
+              "relevance_score": 2,
+              "reasoning": "The product features a wooden handle (榉木柄), which partially meets the requirement for timber, but the main material is plastic, which does not match the target specification."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "1×1×1cm",
+              "relevance_score": 1,
+              "reasoning": "The dimensions provided (1×1×1cm) are not indicative of a standard dish brush size, suggesting it may be a placeholder or incorrect."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "榉木柄锅刷",
+              "relevance_score": 2,
+              "reasoning": "The product has a wooden handle, but it does not specify natural colors of coconut fibre or timber, only indicating the type of wood."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications adequately, with only partial matches in material and color. The size and grip design do not align with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "836419389607",
+          "title": "木柄洗锅刷多功能长柄清洗碗刷带柄家用不沾油洗锅木刷子厂家批发",
+          "image_url": "https://cbu01.alicdn.com/O1CN012IiQCU1W0YdC3HWs2_!!2211950812726-0-cib.jpg",
+          "price_range": "0.75",
+          "moq": 0,
+          "supplier_id": "b2b-22119508127265705d",
+          "supplier_name": "义乌市文鸣日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料, 木柄",
+              "relevance_score": 2,
+              "reasoning": "The product contains a wooden handle (木柄), which partially meets the requirement for FSC-accredited timber, but the main material is plastic, which does not match the target specification."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "1×1×1cm",
+              "relevance_score": 1,
+              "reasoning": "The dimensions provided (1×1×1cm) are not indicative of a standard dish brush size, which typically would be larger."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "木柄锅刷, 小号塑料手柄锅刷",
+              "relevance_score": 2,
+              "reasoning": "The wooden handle may represent a natural color, but the presence of plastic handles does not align with the target specification for natural colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the target specifications effectively, with only partial matches in material and color. The size and grip design do not align with the requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "700143676528",
+          "title": "天然榉木刷木柄厨房锅刷厨房塑料锅刷长柄洗锅刷子不沾油锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN018vnaeQ2AoYbVqWWg0_!!2212998898250-0-cib.jpg",
+          "price_range": "2.70",
+          "moq": 0,
+          "supplier_id": "b2b-2212998898250f695d",
+          "supplier_name": "义乌市和卉堂家居用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "金属, 榉木",
+              "relevance_score": 3,
+              "reasoning": "The product contains beech wood (榉木), which is a type of timber, but does not include coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不适用",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify a size that can be compared to standard dish brush sizes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "塑料柄;中号榉木柄;大号榉木柄",
+              "relevance_score": 3,
+              "reasoning": "The product includes beech wood handles, which are natural in color, but also includes plastic, which does not meet the natural color requirement."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不适用",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets some of the required specifications, particularly in material and color, but lacks in size and grip design. Overall, it does not fully align with the target specifications.",
+          "most_relevant_sku_id": "5240246019796"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "979248571911",
+          "title": "日式榉木锅刷厨房刷锅洗碗洗锅不沾油刷碗除垢油污长柄清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01B6IhkJ1xKFQ37Mj22_!!2220779626424-0-cib.jpg",
+          "price_range": "7.90",
+          "moq": 0,
+          "supplier_id": "b2b-22207796264247317d",
+          "supplier_name": "义乌市创师贸易商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "榉木+剑麻+塑胶",
+              "relevance_score": 3,
+              "reasoning": "The product contains 剑麻 (sisal), which is similar to coconut fibre, but does not include coconut fibre or stainless steel wire. The wood is 榉木 (beech), which is not FSC-accredited."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "椭圆形刷头【一把装】榉木柄",
+              "relevance_score": 3,
+              "reasoning": "The product is a dish brush, but the specific dimensions are not provided to confirm it as a standard size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "椭圆形刷头【一把装】榉木柄",
+              "relevance_score": 3,
+              "reasoning": "The product features natural wood (榉木), but the color of the 剑麻 is not specified, and it may not match the natural colors expected."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the required specifications with some relevant materials and features, but lacks key elements such as coconut fibre and enhanced grip design.",
+          "most_relevant_sku_id": "5936923340289"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "934532947955",
+          "title": "高品质锅刷长柄洗锅刷家用小刷子刷锅神器厨房不粘锅去污清洁锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01E95pMA1Yro0yzetCm_!!2219523513113-0-cib.jpg",
+          "price_range": "0.55",
+          "moq": 2,
+          "supplier_id": "b2b-22195235131130ba2b",
+          "supplier_name": "义乌市奥舒清洁用品厂",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料, 尼龙毛",
+              "relevance_score": 2,
+              "reasoning": "The product is made of plastic and nylon, which does not match the target materials of coconut fibre or timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "无具体尺寸信息",
+              "relevance_score": 2,
+              "reasoning": "There is no specific size information provided, making it difficult to assess if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "无具体颜色信息",
+              "relevance_score": 2,
+              "reasoning": "The product does not specify natural colors; it mentions plastic and nylon, which do not align with the target colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无具体设计信息",
+              "relevance_score": 2,
+              "reasoning": "There is no information provided about an enhanced grip design."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product does not meet the required specifications, with significant differences in material, size, color, and design features. All aspects scored low due to lack of alignment with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "708840262688",
+          "title": "天然刷木柄剑麻锅刷厨房锅刷长柄洗锅刷子榉木锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01rnTa6Y1dJWTUvhDlc_!!2207536913715-0-cib.jpg",
+          "price_range": "1.20",
+          "moq": 2,
+          "supplier_id": "b2b-22075369137150a61c",
+          "supplier_name": "义乌市骉赋电子商务商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 实木+塑料毛",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood and plastic bristles, which does not include coconut fibre or stainless steel wire. The wood is not specified as FSC-accredited."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 1,
+              "reasoning": "The product does not provide specific size information, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "锅刷【实木+塑料毛】",
+              "relevance_score": 3,
+              "reasoning": "The product features natural wood, but the presence of plastic bristles deviates from the target specification of natural colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about an enhanced grip design."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1.75,
+          "summary": "The product does not meet the required specifications adequately, with significant gaps in material, size, and design features. The only partial match is in color, but it still does not fully align with the target specifications.",
+          "most_relevant_sku_id": "5507446811504"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "669469026322",
+          "title": "剑麻木柄洗锅刷多功能长柄厨房清洁锅刷不沾油锅刷锅碟碗刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01zSbLH91dmN4rV9S9V_!!3505753778-0-cib.jpg",
+          "price_range": "2.30",
+          "moq": 0,
+          "supplier_id": "b2b-3505753778f29fd",
+          "supplier_name": "台州市义合工艺品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 剑麻刷丝, 尼龙刷丝",
+              "relevance_score": 3,
+              "reasoning": "The product contains 剑麻 (coconut fibre) but does not include stainless steel wire or FSC-accredited timber. The presence of coconut fibre provides a partial match."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 2,
+              "reasoning": "The size is not explicitly mentioned in the product details, making it difficult to assess if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "圆头 剑麻刷丝, 圆头 尼龙刷丝",
+              "relevance_score": 3,
+              "reasoning": "The product includes natural coconut fibre (剑麻) but also includes nylon, which does not meet the natural color requirement fully."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 2,
+              "reasoning": "There is no information provided about the grip design, making it unclear if it meets the comfort requirement."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.5,
+          "summary": "The product partially meets the required specifications, particularly with the inclusion of coconut fibre, but lacks other key materials and specific size and design details. Overall, it is a moderate match with some significant gaps.",
+          "most_relevant_sku_id": "5005127043486"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "840766619584",
+          "title": "长柄不沾油洗锅刷家用厨房榉木刷子可挂式洗碗洗锅除油除污清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01E7U2JN1H36deuL56l_!!2215604170701-0-cib.jpg",
+          "price_range": "5.15",
+          "moq": 0,
+          "supplier_id": "b2b-2215604170701da83a",
+          "supplier_name": "义乌市徕居家居用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "聚丙烯(pp)",
+              "relevance_score": 1,
+              "reasoning": "The product is made of polypropylene, which does not match any of the required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "默认",
+              "relevance_score": 3,
+              "reasoning": "The size is listed as 'default', which may imply a standard size, but it is not explicitly stated."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "大号-1个装;大号-2个装;小号-2个装;大号+小号-2个装",
+              "relevance_score": 2,
+              "reasoning": "The colors are not specified as natural; they are described by packaging sizes."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only a partial match on size. The material, colors, and grip design do not align with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "679896884466",
+          "title": "多功能长柄厨房清洁锅刷不沾油锅刷剑麻木柄洗锅刷碟碗懒人锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN013Qn4ud1Jiu4XgteUQ_!!2214305831063-0-cib.jpg",
+          "price_range": "2.80",
+          "moq": 0,
+          "supplier_id": "b2b-2214305831063d54d7",
+          "supplier_name": "义乌市苏腾日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the target materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify colors that match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "不明确",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, so it cannot be assessed."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with significant gaps in material, size, color, and design features. Overall, it is not relevant to the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "739462378664",
+          "title": "灶台锅刷家用长柄刷锅洗碗洗锅专用木柄刷子厨房除垢油污清洁神器",
+          "image_url": "https://cbu01.alicdn.com/O1CN01oyXrY624qwnQwAM2x_!!2212122647443-0-cib.jpg",
+          "price_range": "1.00",
+          "moq": 0,
+          "supplier_id": "b2b-2212122647443a8d1f",
+          "supplier_name": "义乌市宏致日用品厂",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not meet the requirement for coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 1,
+              "reasoning": "The product details do not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "【木头】手柄",
+              "relevance_score": 3,
+              "reasoning": "The handle is described as wood, which aligns with the natural color requirement, but it does not include coconut fibre."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, so it cannot be assessed."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product has some elements that partially match the target specifications, particularly in color, but overall it does not meet the required materials or provide sufficient information on size and grip design.",
+          "most_relevant_sku_id": "5507717056617"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "669344162838",
+          "title": "天然剑麻刷木柄剑麻锅刷厨房剑麻锅刷长柄洗锅刷子榉木剑麻锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01BIiQCU1kzNdV4tZfv_!!2212861574754-0-cib.jpg",
+          "price_range": "1.80",
+          "moq": 2,
+          "supplier_id": "b2b-22128615747543f9fe",
+          "supplier_name": "义乌市臣荐电子商务商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, but it does not specify coconut fibre or stainless steel wire, which are required materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "25×6×5cm, 23×6×5cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions provided are within a reasonable range for standard dish brushes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "剑麻锅刷【量大可定做】, 小号尼龙毛刷, 小号铲头尼龙锅刷, 塑料手柄-尼龙毛锅刷, 大号尼龙锅刷",
+              "relevance_score": 2,
+              "reasoning": "The colors mentioned do not align with the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in size, but lacks the required materials and features for a higher score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "721635876768",
+          "title": "榉木锅刷家用厨房刷锅洗碗神器洗锅不沾油刷子刷碗长柄清洁刷除垢",
+          "image_url": "https://cbu01.alicdn.com/O1CN01lBZhPo2Lu0skQQX9B_!!2214288759751-0-cib.jpg",
+          "price_range": "2.15",
+          "moq": 2,
+          "supplier_id": "b2b-2214288759751ec51f",
+          "supplier_name": "金华市金东区旭恒塑料制品厂",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, which partially matches the requirement for FSC-accredited timber, but does not include coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "25×5.8×4cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions suggest a standard size for a dish brush, indicating a good match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "白色",
+              "relevance_score": 3,
+              "reasoning": "The color white does not match the natural colors expected from coconut fibre and timber, but it is a neutral color that could be acceptable."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design, indicating a lack of this feature."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.5,
+          "summary": "The product partially meets the target specifications, particularly in size, but lacks key materials and features such as enhanced grip design.",
+          "most_relevant_sku_id": "5196360867304"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "672689267484",
+          "title": "锅刷家用厨房刷锅洗碗洗锅刷子刷碗长柄清洁刷除垢油污耐用免手洗",
+          "image_url": "https://cbu01.alicdn.com/O1CN01uarjIO1qV3CELQqPy_!!2381815500-0-cib.jpg",
+          "price_range": "2.48",
+          "moq": 2,
+          "supplier_id": "b2b-2381815500",
+          "supplier_name": "义乌市芸茄商贸有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "尼龙, 木柄",
+              "relevance_score": 3,
+              "reasoning": "The product contains nylon and wooden handles, which partially match the target specification for materials, but does not include coconut fibre or stainless steel."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "大号/木柄;中号/木柄;塑料柄",
+              "relevance_score": 4,
+              "reasoning": "The product offers multiple sizes (large and medium), which likely correspond to standard dish brush sizes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "大号/木柄;中号/木柄;塑料柄",
+              "relevance_score": 3,
+              "reasoning": "The product includes wooden handles, which may align with natural colors, but the presence of plastic handles does not meet the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.75,
+          "summary": "The product partially meets the required specifications, particularly in size and material, but lacks key elements like coconut fibre and enhanced grip design. Overall, it is a moderate match.",
+          "most_relevant_sku_id": "5222406331993"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "930581161794",
+          "title": "锅刷木柄家用厨房刷锅洗锅神器刷子不沾清洁刷碗长柄涮锅刷批发",
+          "image_url": "https://cbu01.alicdn.com/O1CN019D8pNe1zgo7x73Kf4_!!2216935376744-0-cib.jpg",
+          "price_range": "1.20",
+          "moq": 0,
+          "supplier_id": "b2b-2216935376744400cf",
+          "supplier_name": "义乌市众麦日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "塑料",
+              "relevance_score": 1,
+              "reasoning": "The product is made of plastic, which does not match any of the target materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "未提供具体尺寸",
+              "relevance_score": 2,
+              "reasoning": "The product does not specify the size, making it difficult to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "木柄/500一箱;塑料柄/500一箱",
+              "relevance_score": 2,
+              "reasoning": "The product includes a wooden handle option, but the colors do not match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the grip design, which is a key requirement."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with a low relevance score across all criteria. The materials and design do not align with the target specifications.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "846424292650",
+          "title": "新款长柄锅刷刷锅厨房专用不沾油强力去污清洁刷家用多功能刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01mFtZh92KUXPGt4i5W_!!2218772669560-0-cib.jpg",
+          "price_range": "4.45",
+          "moq": 1,
+          "supplier_id": "b2b-2218772669560ebbcb",
+          "supplier_name": "兰溪市翔腾日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, which partially matches the target specification for timber, but does not include coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify the size, making it impossible to determine if it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "The product does not specify colors that match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product has limited relevance to the target specifications, primarily due to the material being wood, but lacks other critical specifications such as size, color, and design features.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "933360574965",
+          "title": "新款实木洗碗锅刷天然剑麻碗盘刷椰棕洗锅神器厨房不粘锅清洁刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01TlCuDV2MUCO3pwwOU_!!2214397379830-0-cib.jpg",
+          "price_range": "4.20",
+          "moq": 0,
+          "supplier_id": "b2b-221439737983093f12",
+          "supplier_name": "阳江市驿承工贸有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 椰棕混合毛, 剑麻毛",
+              "relevance_score": 4,
+              "reasoning": "The product contains coconut fibre (椰棕混合毛) and wood (木质), which aligns with the target specification. However, it lacks stainless steel wire and FSC accreditation."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "8×5.5×5.5cm, 17×5.5×5.5cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions of the SKUs (8×5.5×5.5cm and 17×5.5×5.5cm) are typical for dish brushes, indicating a good match for standard size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "尼龙毛（散装）, 剑麻毛（散装）, 椰棕混合毛（散装）",
+              "relevance_score": 3,
+              "reasoning": "The product includes natural colors like 剑麻毛 and 椰棕混合毛, but also includes synthetic nylon, which detracts from a perfect match."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3,
+          "summary": "The product shows a good match for material and size specifications, but lacks a perfect match for color and does not meet the grip design requirement.",
+          "most_relevant_sku_id": "5989641131273"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "844716296674",
+          "title": "印尼藤欧式发酵篮烘焙用具乡村藤编家用面包真藤D23X8.5cm",
+          "image_url": "https://cbu01.alicdn.com/O1CN01C6sBOy1FkxLDRr24a_!!2207675640526-0-cib.jpg",
+          "price_range": "18.50",
+          "moq": 1,
+          "supplier_id": "b2b-22076756405264cccb",
+          "supplier_name": "东兴市铂艺商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "Indonesian rattan",
+              "relevance_score": 2,
+              "reasoning": "The product is made of Indonesian rattan, which does not match the required materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "23×8.5cm",
+              "relevance_score": 2,
+              "reasoning": "The size of the product is 23×8.5cm, which does not correspond to a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Brown",
+              "relevance_score": 2,
+              "reasoning": "The product is brown, which is a natural color, but it does not match the specific colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design for user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1.75,
+          "summary": "The product does not meet the required specifications, with significant differences in material, size, and design features. It only partially matches in color.",
+          "most_relevant_sku_id": "5873003703005"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "847761517905",
+          "title": "工厂批发竹制印章头锅刷木质洗碗刷 家用厨房创意清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01I3zOke1dPvvvmNoVm_!!2218778123729-0-cib.jpg",
+          "price_range": "4.80",
+          "moq": 0,
+          "supplier_id": "b2b-22187781237290efff",
+          "supplier_name": "深圳市安霁工艺礼品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "Bamboo (竹制)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of bamboo, which does not meet the target material specifications of coconut fibre or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "见详情",
+              "relevance_score": 2,
+              "reasoning": "The size is not explicitly mentioned, and '见详情' does not provide clarity on whether it meets the standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "灰色;绿色",
+              "relevance_score": 2,
+              "reasoning": "The colors gray and green do not match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design for user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, with significant differences in material, size, color, and design features.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "854622259458",
+          "title": "厨房竹制洗锅刷子家用水槽灶台清洁刷不沾油软毛洗碗刷不粘锅",
+          "image_url": "https://cbu01.alicdn.com/O1CN017L7H4c1XF2pVZ92aX_!!2215676352893-0-cib.jpg",
+          "price_range": "4.20",
+          "moq": 0,
+          "supplier_id": "b2b-2215676352893d25eb",
+          "supplier_name": "义乌市赞魔乐电子商务有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质",
+              "relevance_score": 2,
+              "reasoning": "The product is made of wood, which partially matches the requirement for FSC-accredited timber, but does not meet the specifications for coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "12×8×6cm",
+              "relevance_score": 5,
+              "reasoning": "The dimensions provided (12×8×6cm) are typical for a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "不带绳子(塑料刷毛), 带绳子(塑料刷毛)",
+              "relevance_score": 2,
+              "reasoning": "The colors mentioned are plastic bristles, which do not align with the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in size, but falls short in material, color, and grip design.",
+          "most_relevant_sku_id": "5826566555420"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "740652000452",
+          "title": "户外洗锅刷洗碗神器竹制印章头锅刷木质洗碗刷家用厨房创意清洁刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01njBpvA1r1783w09Em_!!2207743445570-0-cib.jpg",
+          "price_range": "4.80",
+          "moq": 1,
+          "supplier_id": "b2b-22077434455705aeec",
+          "supplier_name": "宁波市鄞州云龙镇永精塑料制品厂",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "Bamboo (竹制)",
+              "relevance_score": 2,
+              "reasoning": "The product is made of bamboo, which does not match the target materials of coconut fibre or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "18×12×9cm",
+              "relevance_score": 4,
+              "reasoning": "The size of the brush is reasonable for a dish brush, but the exact standard size is not specified."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "印章刷-灰色, 印章刷-绿色, 印章刷-黑色, 印章刷-白色",
+              "relevance_score": 2,
+              "reasoning": "The colors offered are not natural colors of coconut fibre or timber, but rather synthetic colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the specifications with a reasonable size but fails to match the required materials, colors, and grip design.",
+          "most_relevant_sku_id": "5758912201995"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "977955611868",
+          "title": "出口天然剑麻洗锅神器洗碗刷锅短柄家用厨房用品工具清洁去污刷子",
+          "image_url": "https://cbu01.alicdn.com/O1CN01EZj9au2MrYZ9U4r6i_!!2218806369881-0-cib.jpg",
+          "price_range": "5.90",
+          "moq": 1,
+          "supplier_id": "b2b-2220762261504c9ba6",
+          "supplier_name": "义乌市锭辉电子商务商行",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "剑麻 (Jute)",
+              "relevance_score": 2,
+              "reasoning": "The product is made from jute, which is similar to coconut fibre but not the same. Therefore, it partially meets the material requirement."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "短款 (Short version)",
+              "relevance_score": 3,
+              "reasoning": "The product is available in a short version, which may not be standard size but is still a functional dish brush."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "剑麻锅刷 (Jute brush)",
+              "relevance_score": 3,
+              "reasoning": "The color of the jute brush is natural, but it does not specifically mention timber colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "默认项 (Default item)",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design, indicating a lack of this feature."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the required specifications, particularly in material and size, but lacks a complete match in grip design and does not use the specified materials.",
+          "most_relevant_sku_id": "5934288848699"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "892572321978",
+          "title": "天然马毛锅刷子长柄洗锅刷不沾油洗碗家用厨房用刷不伤锅除油神器",
+          "image_url": "https://cbu01.alicdn.com/O1CN01pASQ0A2BpIpiknR3z_!!1000278387-0-cib.jpg",
+          "price_range": "4.90",
+          "moq": 0,
+          "supplier_id": "vitalclean",
+          "supplier_name": "厦门奕清日用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "榉木、PP、304不锈钢、铝、马毛&剑麻&红棕",
+              "relevance_score": 3,
+              "reasoning": "The product contains stainless steel (304不锈钢) and other materials, but does not include coconut fibre or FSC-accredited timber. The presence of other natural materials like 马毛 (horsehair) and 剑麻 (sisal) provides a partial match."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "0×0×0cm",
+              "relevance_score": 1,
+              "reasoning": "The dimensions provided are 0×0×0cm, which does not indicate a standard size for a dish brush."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "棕榈锅刷;剑麻锅刷;马毛锅刷;椰棕锅刷",
+              "relevance_score": 3,
+              "reasoning": "The product includes natural colors like棕榈 (palm) and 剑麻 (sisal), but does not specifically mention coconut fibre colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the required specifications with some relevant materials and colors, but lacks a standard size and enhanced grip design. Overall, it does not fully satisfy the target specifications.",
+          "most_relevant_sku_id": "5739334996265"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "857221018512",
+          "title": "剑麻木柄不伤锅洗锅刷木质厨房去污清洁锅刷不沾油椰棕锅刷碟碗刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN016O7Mmn1v98Tvhr3ZF_!!960176129-0-cib.jpg",
+          "price_range": "4.20",
+          "moq": 0,
+          "supplier_id": "aeszhoutao",
+          "supplier_name": "惠州市灿灿实业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 椰棕",
+              "relevance_score": 4,
+              "reasoning": "The product contains coconut fibre (椰棕) as part of its material, which is a good match for the target specification. However, it does not include stainless steel wire or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "8×6.2×5.8cm",
+              "relevance_score": 5,
+              "reasoning": "The dimensions provided (8×6.2×5.8cm) are typical for a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "木柄锅刷【椰棕】带绳, 木柄锅刷【剑麻毛】带绳",
+              "relevance_score": 4,
+              "reasoning": "The product features natural colors associated with coconut fibre and timber, aligning well with the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3.5,
+          "summary": "The product meets several key specifications, particularly in material and size, but lacks an enhanced grip design. Overall, it is a good match with a score of 3.5.",
+          "most_relevant_sku_id": "5667332229832"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "857796552212",
+          "title": "木头刷洗锅多功能厨房木丝清洁刷沾油锅刷灶台刷碟碗刷厨房工具",
+          "image_url": "https://cbu01.alicdn.com/O1CN01P7uMLZ2Dmfm1VGpJY_!!2210974108652-0-cib.jpg",
+          "price_range": "2.90",
+          "moq": 0,
+          "supplier_id": "b2b-221097410865211d8a",
+          "supplier_name": "惠州市客乐福厨房用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质; 木柄锅刷【椰棕】带绳",
+              "relevance_score": 3,
+              "reasoning": "The product includes a coconut fibre option (椰棕), which partially meets the material requirement, but does not include stainless steel wire or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "6.2×5.8×6cm",
+              "relevance_score": 4,
+              "reasoning": "The dimensions provided are typical for a dish brush, indicating a good match for standard size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "木柄锅刷【椰棕】带绳",
+              "relevance_score": 4,
+              "reasoning": "The product features natural wood and coconut colors, aligning well with the target color specifications."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design, indicating a lack of match."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3,
+          "summary": "The product partially meets the target specifications, particularly in size and color, but lacks some materials and the enhanced grip design.",
+          "most_relevant_sku_id": "5665149464345"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "788517729368",
+          "title": "实木不伤锅洗锅刷厨房家用天然剑麻洗碗刷多功能清洁果蔬刷去污刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN01ITzqv91v6qSQZviFT_!!2216749366124-0-cib.jpg",
+          "price_range": "3.95",
+          "moq": 0,
+          "supplier_id": "b2b-2216749366124b3d54",
+          "supplier_name": "阳江市玮琳工贸有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质;椰棕混合毛;剑麻毛",
+              "relevance_score": 3,
+              "reasoning": "The product contains wood (木质) and coconut fibre (椰棕混合毛), but does not mention stainless steel wire or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "6×6×9cm;10.5×9.5×5.6cm;17×9.8×5.6cm",
+              "relevance_score": 4,
+              "reasoning": "The sizes provided are typical for dish brushes, indicating a good match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "尼龙毛;剑麻毛;椰棕混合毛",
+              "relevance_score": 3,
+              "reasoning": "The product includes natural materials like coconut fibre and wood, but the presence of nylon may detract from the natural color specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.75,
+          "summary": "The product partially meets the required specifications, particularly in material and size, but lacks a complete match for all criteria, especially the enhanced grip design.",
+          "most_relevant_sku_id": "5379841380528"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "520709285557",
+          "title": "亚马逊爆品印尼藤欧式发酵篮烘焙用具乡村发酵面包篮圆形藤编篮模",
+          "image_url": "https://cbu01.alicdn.com/O1CN011aHu7S1r0BxHeU78A_!!947375568-0-cib.jpg",
+          "price_range": "22.00",
+          "moq": 0,
+          "supplier_id": "yibao168",
+          "supplier_name": "广西博白县新和家饰用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "藤",
+              "relevance_score": 1,
+              "reasoning": "The product is made of rattan (藤), which does not match the required materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "多种尺寸可选",
+              "relevance_score": 2,
+              "reasoning": "The product offers various sizes, but it does not specify a standard dish brush size, leading to a poor match."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "未提供颜色信息",
+              "relevance_score": 1,
+              "reasoning": "There is no information on the colors of the product, which does not meet the requirement."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "未提供相关信息",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design, which is a significant requirement."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, resulting in a very low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "922132863922",
+          "title": "洗碗刷磨砂刷耐用洗涤器含联合纤维清洁锅平底锅蔬菜餐具水槽清洁",
+          "image_url": "https://cbu01.alicdn.com/O1CN01YfOB991vvE86QOyJa_!!2209613696234-0-cib.jpg",
+          "price_range": "19.50",
+          "moq": 0,
+          "supplier_id": "b2b-2209613696234415d7",
+          "supplier_name": "义乌市宏泰日用百货有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "椰棕混合毛, 木质",
+              "relevance_score": 3,
+              "reasoning": "The product contains coconut fibre (椰棕混合毛) and wood (木质), which partially meets the material requirement. However, it lacks stainless steel wire and FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "10.5×9.5×5.6cm, 6×6×9cm",
+              "relevance_score": 4,
+              "reasoning": "The sizes provided are typical for dish brushes, indicating a good match for standard sizes."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "尼龙毛;剑麻毛;椰棕混合毛;木质",
+              "relevance_score": 3,
+              "reasoning": "The product includes natural colors like coconut fibre (椰棕混合毛) and wood (木质), but also includes synthetic materials (尼龙毛), which detracts from a perfect match."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无具体提及",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2.75,
+          "summary": "The product partially meets the required specifications, particularly in material and size, but lacks a complete match for all criteria, especially the enhanced grip design and the absence of stainless steel wire.",
+          "most_relevant_sku_id": "5799382512542"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "722400006369",
+          "title": "厂家外贸彩色毛线球塑料pp网球针织网球配件伤锅",
+          "image_url": "https://cbu01.alicdn.com/O1CN01JnusoK1NQMIDHVb2H_!!2213348881564-0-cib.jpg",
+          "price_range": "0.35",
+          "moq": 0,
+          "supplier_id": "b2b-22133488815645f801",
+          "supplier_name": "潮州市枫溪区合亨陶瓷配件经营部",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "剑毛木刷, 塑料刷",
+              "relevance_score": 2,
+              "reasoning": "The product includes a wooden brush (剑毛木刷), which may imply timber, but does not meet the specific materials of coconut fibre or stainless steel wire."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the size of the brushes to determine if they are standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "彩色",
+              "relevance_score": 2,
+              "reasoning": "The product is described as colorful (彩色), which does not align with the natural colors specified."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "N/A",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet the required specifications, with only partial matches in material and color. Size and grip design are not addressed, leading to a low overall relevance score.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "771909841540",
+          "title": "定制新品PP藤编欧式发酵篮烘焙用具乡村发酵面包篮面团发酵篮",
+          "image_url": "https://cbu01.alicdn.com/O1CN011aHu7S1r0BxHeU78A_!!947375568-0-cib.jpg",
+          "price_range": "2.50",
+          "moq": 0,
+          "supplier_id": "yibao168",
+          "supplier_name": "广西博白县新和家饰用品有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "PP仿藤",
+              "relevance_score": 2,
+              "reasoning": "The product is made of PP仿藤 (PP imitation rattan), which does not match the required materials of coconut fibre, stainless steel wire, or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Various sizes of fermentation baskets",
+              "relevance_score": 2,
+              "reasoning": "The product includes various sizes of fermentation baskets, but does not specify a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "PP米白色 (PP off-white)",
+              "relevance_score": 2,
+              "reasoning": "The color is PP米白色 (off-white), which does not match the natural colors of coconut fibre and timber."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design for user comfort."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1.75,
+          "summary": "The product does not meet the required specifications, with significant differences in material, size, color, and design features. It is not suitable for the target requirements.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "626698490342",
+          "title": "欧包发酵藤篮亚马逊欧式烘培模具乡村面包成形面包篮藤编织圆形大",
+          "image_url": "https://cbu01.alicdn.com/O1CN01LW22Sq1p5ZWCL8PUi_!!2208975885309-0-cib.jpg",
+          "price_range": "2.30",
+          "moq": 0,
+          "supplier_id": "b2b-2208975885309f8438",
+          "supplier_name": "广西博白县明藤工艺品有限责任公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "其它",
+              "relevance_score": 1,
+              "reasoning": "The product material is listed as '其它' (other), which does not match any of the specified materials."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "Various sizes of round baskets and tools",
+              "relevance_score": 2,
+              "reasoning": "The product includes various sizes, but none are specifically identified as a standard dish brush size."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no information provided about the colors of the materials used."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "Not specified",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 1,
+          "summary": "The product does not meet any of the required specifications, with significant gaps in material, size, color, and design features.",
+          "most_relevant_sku_id": null
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "811103730433",
+          "title": "厂家直销剑麻洗锅刷子带柄不伤锅椰棕洗碗刷厨房清洁铁锅专用锅刷",
+          "image_url": "https://cbu01.alicdn.com/O1CN015Vx8fu1M2FxDce9NI_!!2816091376-0-cib.jpg",
+          "price_range": "3.80",
+          "moq": 2,
+          "supplier_id": "b2b-2816091376d73ff",
+          "supplier_name": "潜山县耀天刷业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "木质, 剑麻, 椰棕",
+              "relevance_score": 4,
+              "reasoning": "The product contains coconut fibre (椰棕) and a wooden handle (木质), which aligns well with the target material specifications. However, it does not mention stainless steel wire or FSC-accredited timber."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "8*5 cm",
+              "relevance_score": 5,
+              "reasoning": "The size of the brush (8*5 cm) is a standard size for dish brushes, fulfilling the target specification."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "椰棕, 木质",
+              "relevance_score": 4,
+              "reasoning": "The colors mentioned (coconut brown and wood) are natural colors, which partially meet the target specification."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details, indicating a lack of compliance with this specification."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 3.5,
+          "summary": "The product meets several key specifications, particularly in material and size, but lacks an enhanced grip design. Overall, it is a good match with a score of 3.5.",
+          "most_relevant_sku_id": "5801596349646"
+        }
+      },
+      {
+        "searchResult": {
+          "platform_id": "1",
+          "item_id": "580684647178",
+          "title": "厨房竹制洗锅刷子家用水槽灶台长柄清洁刷不沾油软毛洗碗刷不粘锅",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/9561730157_2039926433.jpg",
+          "price_range": "6.00",
+          "moq": 1,
+          "supplier_id": "b2b-350482288140579",
+          "supplier_name": "台州市黄岩区贝联塑业有限公司",
+          "supplier_region": "CN"
+        },
+        "specAnalysis": {
+          "required_specs": [
+            {
+              "spec_name": "Material",
+              "target_value": "Coconut fibre/coir, stainless steel wire, FSC-accredited timber",
+              "product_value": "pp+竹制",
+              "relevance_score": 2,
+              "reasoning": "The product is made of bamboo (竹制) and PP, which does not match the required materials of coconut fibre or stainless steel wire. However, bamboo is a natural material, which gives it some relevance."
+            },
+            {
+              "spec_name": "Size",
+              "target_value": "Standard dish brush size",
+              "product_value": "刷子",
+              "relevance_score": 3,
+              "reasoning": "The product is categorized as a brush (刷子), which typically indicates a standard size, but no specific dimensions are provided."
+            },
+            {
+              "spec_name": "Colors",
+              "target_value": "Natural colors of coconut fibre and timber",
+              "product_value": "竹本色长柄;竹本色短柄",
+              "relevance_score": 4,
+              "reasoning": "The product is available in natural bamboo colors, which aligns well with the target specification for natural colors."
+            },
+            {
+              "spec_name": "Other Specs",
+              "target_value": "Enhanced grip design for user comfort",
+              "product_value": "无",
+              "relevance_score": 1,
+              "reasoning": "There is no mention of an enhanced grip design in the product details."
+            }
+          ],
+          "optional_specs": [],
+          "overall_relevance_score": 2,
+          "summary": "The product partially meets the target specifications, particularly in color and size, but falls short in material and grip design.",
+          "most_relevant_sku_id": "4857949338854"
+        }
+      }
+    ],
+    "summary": "A sustainable dish brush designed for cleaning purposes, emphasizing eco-friendly design. Made from natural materials, it features an enhanced grip for user comfort."
+  },
+  "finalAccuracy": 9.090909090909092,
+  "totalIterations": 5,
+  "iterationResults": [
+    {
+      "iteration": 1,
+      "keywords": [
+        "可持续洗碗刷",
+        "环保洗碗刷",
+        "天然材料洗碗刷",
+        "椰子纤维洗碗刷",
+        "舒适握柄洗碗刷"
+      ],
+      "accuracy": 11.267605633802818,
+      "emergent_terms": [],
+      "total_relevant_products": 8,
+      "keyword_performance": {
+        "可持续洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 71,
+          "accuracy_percent": 11.267605633802818
+        },
+        "环保洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 71,
+          "accuracy_percent": 11.267605633802818
+        },
+        "天然材料洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 71,
+          "accuracy_percent": 11.267605633802818
+        },
+        "椰子纤维洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 71,
+          "accuracy_percent": 11.267605633802818
+        },
+        "舒适握柄洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 71,
+          "accuracy_percent": 11.267605633802818
+        }
+      }
+    },
+    {
+      "iteration": 2,
+      "keywords": [
+        "可持续竹木洗碗刷",
+        "环保果蔬清洁刷",
+        "天然材料舒适握柄刷",
+        "新款椰子纤维刷",
+        "碗锅清洁竹刷"
+      ],
+      "accuracy": 23.863636363636363,
+      "emergent_terms": [
+        {
+          "term": "新款",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "碗锅",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "碗盘",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "竹木",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "礼盒装",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "果蔬",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        }
+      ],
+      "total_relevant_products": 21,
+      "keyword_performance": {
+        "可持续竹木洗碗刷": {
+          "relevant_count": 21,
+          "total_count": 88,
+          "accuracy_percent": 23.863636363636363
+        },
+        "环保果蔬清洁刷": {
+          "relevant_count": 21,
+          "total_count": 88,
+          "accuracy_percent": 23.863636363636363
+        },
+        "天然材料舒适握柄刷": {
+          "relevant_count": 21,
+          "total_count": 88,
+          "accuracy_percent": 23.863636363636363
+        },
+        "新款椰子纤维刷": {
+          "relevant_count": 21,
+          "total_count": 88,
+          "accuracy_percent": 23.863636363636363
+        },
+        "碗锅清洁竹刷": {
+          "relevant_count": 21,
+          "total_count": 88,
+          "accuracy_percent": 23.863636363636363
+        }
+      }
+    },
+    {
+      "iteration": 3,
+      "keywords": [
+        "可持续剑麻洗碗刷",
+        "环保木质清洁刷",
+        "天然材料厨房用品",
+        "新款椰棕锅刷",
+        "舒适握柄碗碟刷"
+      ],
+      "accuracy": 8,
+      "emergent_terms": [
+        {
+          "term": "剑麻",
+          "relevantFreq": 8,
+          "irrelevantFreq": 4,
+          "relevanceScore": 4
+        },
+        {
+          "term": "厨房用品",
+          "relevantFreq": 2,
+          "irrelevantFreq": 0,
+          "relevanceScore": 2
+        },
+        {
+          "term": "草根",
+          "relevantFreq": 2,
+          "irrelevantFreq": 0,
+          "relevanceScore": 2
+        },
+        {
+          "term": "碗碟",
+          "relevantFreq": 2,
+          "irrelevantFreq": 0,
+          "relevanceScore": 2
+        },
+        {
+          "term": "实木",
+          "relevantFreq": 3,
+          "irrelevantFreq": 2,
+          "relevanceScore": 1
+        },
+        {
+          "term": "不粘锅",
+          "relevantFreq": 2,
+          "irrelevantFreq": 1,
+          "relevanceScore": 1
+        },
+        {
+          "term": "新款",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "碗锅",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "碗盘",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "礼盒装",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        }
+      ],
+      "total_relevant_products": 8,
+      "keyword_performance": {
+        "可持续剑麻洗碗刷": {
+          "relevant_count": 8,
+          "total_count": 100,
+          "accuracy_percent": 8
+        },
+        "环保木质清洁刷": {
+          "relevant_count": 8,
+          "total_count": 100,
+          "accuracy_percent": 8
+        },
+        "天然材料厨房用品": {
+          "relevant_count": 8,
+          "total_count": 100,
+          "accuracy_percent": 8
+        },
+        "新款椰棕锅刷": {
+          "relevant_count": 8,
+          "total_count": 100,
+          "accuracy_percent": 8
+        },
+        "舒适握柄碗碟刷": {
+          "relevant_count": 8,
+          "total_count": 100,
+          "accuracy_percent": 8
+        }
+      }
+    },
+    {
+      "iteration": 4,
+      "keywords": [
+        "可持续棕榈洗碗刷",
+        "环保厨房用品刷",
+        "天然材料舒适握柄刷",
+        "新款剑麻清洁刷",
+        "舒适握柄棕榈刷"
+      ],
+      "accuracy": 10,
+      "emergent_terms": [
+        {
+          "term": "棕榈",
+          "relevantFreq": 2,
+          "irrelevantFreq": 1,
+          "relevanceScore": 1
+        },
+        {
+          "term": "圆碟",
+          "relevantFreq": 2,
+          "irrelevantFreq": 1,
+          "relevanceScore": 1
+        },
+        {
+          "term": "厨房用品",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "猪鬃",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "亚麻",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        }
+      ],
+      "total_relevant_products": 10,
+      "keyword_performance": {
+        "可持续棕榈洗碗刷": {
+          "relevant_count": 10,
+          "total_count": 100,
+          "accuracy_percent": 10
+        },
+        "环保厨房用品刷": {
+          "relevant_count": 10,
+          "total_count": 100,
+          "accuracy_percent": 10
+        },
+        "天然材料舒适握柄刷": {
+          "relevant_count": 10,
+          "total_count": 100,
+          "accuracy_percent": 10
+        },
+        "新款剑麻清洁刷": {
+          "relevant_count": 10,
+          "total_count": 100,
+          "accuracy_percent": 10
+        },
+        "舒适握柄棕榈刷": {
+          "relevant_count": 10,
+          "total_count": 100,
+          "accuracy_percent": 10
+        }
+      }
+    },
+    {
+      "iteration": 5,
+      "keywords": [
+        "可持续天然材料洗碗刷",
+        "环保舒适握柄刷",
+        "新款剑麻清洁刷",
+        "可持续棕榈清洁刷",
+        "天然木质环保刷"
+      ],
+      "accuracy": 9.090909090909092,
+      "emergent_terms": [
+        {
+          "term": "草根",
+          "relevantFreq": 2,
+          "irrelevantFreq": 0,
+          "relevanceScore": 2
+        },
+        {
+          "term": "铁锅",
+          "relevantFreq": 2,
+          "irrelevantFreq": 0,
+          "relevanceScore": 2
+        },
+        {
+          "term": "炊帚",
+          "relevantFreq": 2,
+          "irrelevantFreq": 1,
+          "relevanceScore": 1
+        },
+        {
+          "term": "粗杆",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "亚麻",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "碗盘",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "厂家直销",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        },
+        {
+          "term": "礼盒装",
+          "relevantFreq": 1,
+          "irrelevantFreq": 0,
+          "relevanceScore": 1
+        }
+      ],
+      "total_relevant_products": 7,
+      "keyword_performance": {
+        "可持续天然材料洗碗刷": {
+          "relevant_count": 7,
+          "total_count": 77,
+          "accuracy_percent": 9.090909090909092
+        },
+        "环保舒适握柄刷": {
+          "relevant_count": 7,
+          "total_count": 77,
+          "accuracy_percent": 9.090909090909092
+        },
+        "新款剑麻清洁刷": {
+          "relevant_count": 7,
+          "total_count": 77,
+          "accuracy_percent": 9.090909090909092
+        },
+        "可持续棕榈清洁刷": {
+          "relevant_count": 7,
+          "total_count": 77,
+          "accuracy_percent": 9.090909090909092
+        },
+        "天然木质环保刷": {
+          "relevant_count": 7,
+          "total_count": 77,
+          "accuracy_percent": 9.090909090909092
+        }
+      }
+    }
+  ],
+  "targetReached": false,
+  "finalKeywordPerformance": {
+    "可持续洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 71,
+      "accuracy_percent": 11.267605633802818
+    },
+    "环保洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 71,
+      "accuracy_percent": 11.267605633802818
+    },
+    "天然材料洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 71,
+      "accuracy_percent": 11.267605633802818
+    },
+    "椰子纤维洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 71,
+      "accuracy_percent": 11.267605633802818
+    },
+    "舒适握柄洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 71,
+      "accuracy_percent": 11.267605633802818
+    },
+    "可持续竹木洗碗刷": {
+      "relevant_count": 21,
+      "total_count": 88,
+      "accuracy_percent": 23.863636363636363
+    },
+    "环保果蔬清洁刷": {
+      "relevant_count": 21,
+      "total_count": 88,
+      "accuracy_percent": 23.863636363636363
+    },
+    "天然材料舒适握柄刷": {
+      "relevant_count": 31,
+      "total_count": 188,
+      "accuracy_percent": 16.48936170212766
+    },
+    "新款椰子纤维刷": {
+      "relevant_count": 21,
+      "total_count": 88,
+      "accuracy_percent": 23.863636363636363
+    },
+    "碗锅清洁竹刷": {
+      "relevant_count": 21,
+      "total_count": 88,
+      "accuracy_percent": 23.863636363636363
+    },
+    "可持续剑麻洗碗刷": {
+      "relevant_count": 8,
+      "total_count": 100,
+      "accuracy_percent": 8
+    },
+    "环保木质清洁刷": {
+      "relevant_count": 8,
+      "total_count": 100,
+      "accuracy_percent": 8
+    },
+    "天然材料厨房用品": {
+      "relevant_count": 8,
+      "total_count": 100,
+      "accuracy_percent": 8
+    },
+    "新款椰棕锅刷": {
+      "relevant_count": 8,
+      "total_count": 100,
+      "accuracy_percent": 8
+    },
+    "舒适握柄碗碟刷": {
+      "relevant_count": 8,
+      "total_count": 100,
+      "accuracy_percent": 8
+    },
+    "可持续棕榈洗碗刷": {
+      "relevant_count": 10,
+      "total_count": 100,
+      "accuracy_percent": 10
+    },
+    "环保厨房用品刷": {
+      "relevant_count": 10,
+      "total_count": 100,
+      "accuracy_percent": 10
+    },
+    "新款剑麻清洁刷": {
+      "relevant_count": 17,
+      "total_count": 177,
+      "accuracy_percent": 9.6045197740113
+    },
+    "舒适握柄棕榈刷": {
+      "relevant_count": 10,
+      "total_count": 100,
+      "accuracy_percent": 10
+    },
+    "可持续天然材料洗碗刷": {
+      "relevant_count": 7,
+      "total_count": 77,
+      "accuracy_percent": 9.090909090909092
+    },
+    "环保舒适握柄刷": {
+      "relevant_count": 7,
+      "total_count": 77,
+      "accuracy_percent": 9.090909090909092
+    },
+    "可持续棕榈清洁刷": {
+      "relevant_count": 7,
+      "total_count": 77,
+      "accuracy_percent": 9.090909090909092
+    },
+    "天然木质环保刷": {
+      "relevant_count": 7,
+      "total_count": 77,
+      "accuracy_percent": 9.090909090909092
+    }
+  }
+}
