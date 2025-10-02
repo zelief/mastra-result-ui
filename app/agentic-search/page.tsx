@@ -71,6 +71,18 @@ export default function AgenticSearchPage() {
       {/* Results Section */}
       {data && (
         <div className="space-y-8">
+          {/* Summary */}
+          {data.searchResults.summary && (
+            <Card>
+              <CardHeader>
+                <CardTitle>Summary</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-sm text-muted-foreground">{data.searchResults.summary}</p>
+              </CardContent>
+            </Card>
+          )}
+
           {/* Summary Stats */}
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
             <Card>
