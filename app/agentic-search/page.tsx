@@ -21,6 +21,7 @@ export default function AgenticSearchPage() {
       setData(parsed);
       setError(null);
     } catch (err) {
+      console.error(err);
       setError("Invalid JSON format. Please check your input.");
       setData(null);
     }
